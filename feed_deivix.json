@@ -1,0 +1,127 @@
+{
+  "providerName": "Rolat Streaming",
+  "lastUpdated": "2026-02-05",
+  "movies": [
+    {
+      "id": "mov_01",
+      "title": "Interstellar",
+      "shortDescription": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento de asegurar la supervivencia de la humanidad.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/gEU2QniL6C8z19C48ZVpH0b47F2.jpg",
+      "releaseDate": "2014",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/interstellar-2014_202409/Interstellar%282014%29.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_02",
+      "title": "Titanic",
+      "shortDescription": "Una joven aristócrata se enamora de un pobre artista a bordo del lujoso y malogrado R.M.S. Titanic.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "releaseDate": "1997",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/peliculas-para-archivar/Titanic%20-%20Extended%20Version%20%28Fan-Edit%29%20%281997%29%20%5BEnglish%20Audio%2C%20Spanish%20Subs%5D.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_03",
+      "title": "Todopoderoso",
+      "shortDescription": "Bruce Nolan recibe los poderes de Dios para ver si puede hacer un mejor trabajo gobernando el mundo.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/kkS8K12d0IY6jyJ2rF6d5vFPt6w.jpg",
+      "releaseDate": "2003",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/todopoderoso_202409/Todopoderoso.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_04",
+      "title": "Rio",
+      "shortDescription": "Blu, un guacamayo domesticado, viaja a Río de Janeiro para salvar su especie.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/8g9cQd363728281.jpg",
+      "releaseDate": "2011",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/rio_20240926/Rio.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_05",
+      "title": "El Resplandor",
+      "shortDescription": "Un cuidador de hotel pierde la cordura y aterroriza a su familia en un hotel aislado por la nieve.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg",
+      "releaseDate": "1980",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/el-resplandor-1980-espanol-latino-dvd-fullscreen/El%20resplandor%20%281980%29%20Espa%C3%B1ol%20Latino%20DVD%20Fullscreen.mp4", "quality": "SD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_06",
+      "title": "Mi abuelo es un peligro",
+      "shortDescription": "Un joven abogado es engañado para llevar a su desenfrenado abuelo a Florida para el Spring Break.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/t43X3Q5K2Gquc1Gsk9J0Yj62fVf.jpg",
+      "releaseDate": "2016",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/mi-abuelo-es-un-peligro_202409/Mi%20abuelo%20es%20un%20peligro.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_07",
+      "title": "¿Y dónde están las rubias?",
+      "shortDescription": "Dos agentes del FBI se hacen pasar por chicas de la alta sociedad para protegerlas de un secuestro.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/2lECpi35Hnbpa4y46JX0aY3Awt.jpg",
+      "releaseDate": "2004",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/y-donde-estan-las-rubias-latino-completa-720-p-hd/Y%20Donde%20estan%20las%20rubias%20_%20Latino%20Completa%28720P_HD%29.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_08",
+      "title": "Las Crónicas de Narnia",
+      "shortDescription": "Cuatro hermanos entran a un armario mágico y descubren el mundo de Narnia.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/iREd0rNCjYdf56aCl21b2SRrr6F.jpg",
+      "releaseDate": "2005",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/1-ropero/1%20Ropero.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_09",
+      "title": "Spider-Man: Un Nuevo Universo",
+      "shortDescription": "Miles Morales se une a otros Spider-Man de dimensiones paralelas para detener una amenaza.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "releaseDate": "2018",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/hombre-arana-un-nuevo-universo/Hombre%20ara%C3%B1a%20un%20nuevo%20universo.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_10",
+      "title": "Batman: El Caballero de la Noche",
+      "shortDescription": "Batman se enfrenta al Joker, una mente criminal que quiere ver a Gotham arder.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/8HP9cI5713437e5967YV6792E5E.jpg",
+      "releaseDate": "2008",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/el.-caballero.-de.-la.-noche.-audio-latino.-digitalizado/El.Caballero.De.La.Noche.AudioLatino.%28Digitalizado%29.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_11",
+      "title": "[REC]",
+      "shortDescription": "Una reportera y un camarógrafo quedan atrapados en un edificio en cuarentena con algo aterrador.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/d4Kwx9X9X9X9.jpg",
+      "releaseDate": "2007",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/rec-2007_202401/REC%20%282007%29.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    },
+    {
+      "id": "mov_12",
+      "title": "La Princesa y el Sapo",
+      "shortDescription": "Una joven camarera y un príncipe sapo buscan la forma de volver a ser humanos en Nueva Orleans.",
+      "thumbnail": "https://image.tmdb.org/t/p/original/w4s2KCDu0Gj5OFVTW9y3hZ7s0qP.jpg",
+      "releaseDate": "2009",
+      "content": {
+        "videos": [{"url": "https://archive.org/download/gigi-la-princesa-y-el-sapo-2009-latino-toky-video/%E3%80%8EGigi%E2%99%A1%E3%80%8F%E2%AA%BCLa%20Princesa%20y%20El%20Sapo%20%282009%29%20Latino%20-%20TokyVideo.mp4", "quality": "HD", "videoType": "MP4"}]
+      }
+    }
+  ],
+  "series": []
+}
