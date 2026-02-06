@@ -387,13 +387,175 @@
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/El%20Payaso%20Del%20Mal.mp4", "quality": "HD", "videoType": "MP4"}] }
     }
   ],
-"series": [
-     {
-        "id": "ser_01",
-        "title": "Series Próximamente",
-        "thumbnail": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1oKA64eZgiE.jpg",
-        "shortDescription": "Estamos trabajando en la sección de series.",
-        "episodes": []
-     }
+  "series": [
+    {
+      "id": "ser_01",
+      "title": "Yo soy Betty, la fea",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+      "shortDescription": "La historia de Beatriz Pinzón Solano, una mujer brillante pero poco atractiva.",
+      "episodes": [
+        { "title": "Capítulo 1", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E01.mp4" },
+        { "title": "Capítulo 2", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E02.mp4" },
+        { "title": "Capítulo 3", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E03.mp4" },
+        { "title": "Capítulo 4", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E04.mp4" },
+        { "title": "Capítulo 5", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E05.mp4" },
+        { "title": "Capítulo 6", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E06.mp4" },
+        { "title": "Capítulo 7", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E07.mp4" },
+        { "title": "Capítulo 8", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E08.mp4" },
+        { "title": "Capítulo 9", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E09.mp4" },
+        { "title": "Capítulo 10", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E10.mp4" },
+        { "title": "Capítulo 11", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E11.mp4" },
+        { "title": "Capítulo 12", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E12.mp4" },
+        { "title": "Capítulo 13", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E13.mp4" },
+        { "title": "Capítulo 14", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E14.mp4" }
+      ]
+    },
+    {
+      "id": "ser_02",
+      "title": "Cosmos: Una odisea en el espacio",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",
+      "shortDescription": "Un viaje fascinante a través del universo y la ciencia.",
+      "episodes": [
+        { "title": "Cap 1: De Pie en la Vía Láctea", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%201-%20De%20Pie%20en%20la%20V%C3%ADa%20L%C3%A1ctea.%20%5BLatino%5D.mp4" },
+        { "title": "Cap 2: Evolución molécula a molécula", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%202-%20Evoluci%C3%B3n%20mol%C3%A9cula%20a%20mol%C3%A9cula%20%5BLatino%5D.mp4" },
+        { "title": "Cap 3: Cuando el conocimiento venció", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%203-%20Cuando%20el%20conocimiento%20venci%C3%B3%20al%20miedo%20%5BLatino%5D.mp4" },
+        { "title": "Cap 4: Tiempo, Espacio y Fantasmas", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%204-%20Tiempo%2C%20Espacio%20y%20Fantasmas%20%5BLatino%5D.mp4" },
+        { "title": "Cap 5: Ocultas a plena luz", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%205-%20Ocultas%20a%20plena%20luz%20del%20d%C3%ADa%20%5BLatino%5D.mp4" },
+        { "title": "Cap 6: Átomos Violentos", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%206-%20%C3%81tomos%20Violentos%20%5BLatino%5D.mp4" },
+        { "title": "Cap 7: Tiempo Antes del Tiempo", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%207-%20Tiempo%20Antes%20del%20Tiempo%20%5BLatino%5D.mp4" },
+        { "title": "Cap 8: La paradoja del Sol", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%208-%20La%20paradoja%20de%20las%20hermanas%20del%20Sol%20%5BLatino%5D.mp4" },
+        { "title": "Cap 9: Mundos Perdidos", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%209-%20Los%20Mundos%20Perdidos%20de%20la%20Tierra%20%5BLatino%5D.mp4" },
+        { "title": "Cap 10: El visionario electrónico", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%2010-%20El%20visionario%20electr%C3%B3nico%20%5BLatino%5D.mp4" },
+        { "title": "Cap 11: Los Inmortales", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%2011-%20Los%20Inmortales%20%5BLatino%5D.mp4" },
+        { "title": "Cap 12: El Mundo Liberado", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%2012-%20El%20Mundo%20Liberado%20%5BLatino%5D.mp4" },
+        { "title": "Cap 13: Sin Miedo a la Oscuridad", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%2013%20-%20Sin%20Miedo%20a%20la%20Oscuridad%20%5BLatino%5D.mp4" }
+      ]
+    },
+    {
+      "id": "ser_03",
+      "title": "Dino Rey",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/oQfcMJu1gvbmp50jftvRnc0ijgP.jpg",
+      "shortDescription": "El Equipo D viaja por el mundo para salvar a los dinosaurios.",
+      "episodes": [
+        { "title": "T1 - Cap 1", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764606684735.mp4" },
+        { "title": "T1 - Cap 2", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764606768117.mp4" },
+        { "title": "T1 - Cap 3", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764608626430.mp4" },
+        { "title": "T1 - Cap 4", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764608694459.mp4" },
+        { "title": "T1 - Cap 5", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764610536475.mp4" },
+        { "title": "T1 - Cap 6", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764610660397.mp4" },
+        { "title": "T1 - Cap 7", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764622149093.mp4" },
+        { "title": "T1 - Cap 8", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764622253912.mp4" },
+        { "title": "T1 - Cap 9", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764628962279.mp4" },
+        { "title": "T1 - Cap 10", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764629083547.mp4" },
+        { "title": "T1 - Cap 11", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764631865033.mp4" },
+        { "title": "T1 - Cap 12", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764632733032.mp4" },
+        { "title": "T1 - Cap 13", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764635126648.mp4" },
+        { "title": "T1 - Cap 14", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764635325005.mp4" },
+        { "title": "T1 - Cap 15", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764639593175.mp4" },
+        { "title": "T1 - Cap 16", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764640859970.mp4" },
+        { "title": "T1 - Cap 17", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764643181344.mp4" },
+        { "title": "T1 - Cap 18", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764643969798.mp4" },
+        { "title": "T1 - Cap 19", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764645758354.mp4" },
+        { "title": "T1 - Cap 20", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764646064067.mp4" },
+        { "title": "T2 - Cap 50", "url": "https://archive.org/download/ytdown.com-you-tube-dino-rey-temporada-2-capitulo-50-una-nue-media-gjxw-wob-6c-c-001-1080p/YTDown.com_YouTube_Dino-Rey-Temporada-2-Capitulo-50-Una-Nue_Media_gjxwWob6c_c_001_1080p.mp4" },
+        { "title": "T2 - Cap 51", "url": "https://archive.org/download/ytdown.com-you-tube-dino-rey-temporada-2-capitulo-50-una-nue-media-gjxw-wob-6c-c-001-1080p/YTDown.com_YouTube_Dino-Rey-Temporada-2-Capitulo-51-Un-Dino_Media_hXAve2a2R_o_001_1080p.mp4" },
+        { "title": "T2 - Cap 52", "url": "https://archive.org/download/ytdown.com-you-tube-dino-rey-temporada-2-capitulo-50-una-nue-media-gjxw-wob-6c-c-001-1080p/YTDown.com_YouTube_Dino-Rey-Temporada-2-Capitulo-52-El-Segu_Media_6rDsBCJVqes_001_1080p.mp4" },
+        { "title": "T2 - Cap 53", "url": "https://archive.org/download/ytdown.com-you-tube-dino-rey-temporada-2-capitulo-50-una-nue-media-gjxw-wob-6c-c-001-1080p/YTDown.com_YouTube_Dino-Rey-Temporada-2-Capitulo-53-Esparta_Media_OIkf1MTiyzU_001_1080p.mp4" },
+        { "title": "T2 - Cap 54", "url": "https://archive.org/download/ytdown.com-you-tube-dino-rey-temporada-2-capitulo-50-una-nue-media-gjxw-wob-6c-c-001-1080p/YTDown.com_YouTube_Dino-Rey-Temporada-2-Capitulo-54-Dinotec_Media_I8gvLOfWaBc_001_1080p.mp4" }
+      ]
+    },
+    {
+      "id": "ser_04",
+      "title": "Boku no Hero Academia",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/sSELYoag7grJVTnEFWfTvWXCjGT.jpg",
+      "shortDescription": "Izuku Midoriya sueña con ser un héroe a pesar de no tener poderes.",
+      "episodes": [
+        { "title": "Capítulo 1", "url": "https://archive.org/download/1_20221125_20221125_1451/1.mp4" },
+        { "title": "Capítulo 2", "url": "https://archive.org/download/1_20221125_20221125_1451/2.mp4" },
+        { "title": "Capítulo 3", "url": "https://archive.org/download/1_20221125_20221125_1451/3.mp4" },
+        { "title": "Capítulo 4", "url": "https://archive.org/download/1_20221125_20221125_1451/4.mp4" },
+        { "title": "Capítulo 5", "url": "https://archive.org/download/1_20221125_20221125_1451/5.mp4" },
+        { "title": "Capítulo 6", "url": "https://archive.org/download/1_20221125_20221125_1451/6.mp4" },
+        { "title": "Capítulo 7", "url": "https://archive.org/download/1_20221125_20221125_1451/7.mp4" },
+        { "title": "Capítulo 8", "url": "https://archive.org/download/1_20221125_20221125_1451/8.mp4" },
+        { "title": "Capítulo 9", "url": "https://archive.org/download/1_20221125_20221125_1451/9.mp4" },
+        { "title": "Capítulo 10", "url": "https://archive.org/download/1_20221125_20221125_1451/10.mp4" }
+      ]
+    },
+    {
+      "id": "ser_05",
+      "title": "Stranger Things",
+      "thumbnail": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "shortDescription": "Un grupo de niños descubre secretos sobrenaturales en Hawkins.",
+      "episodes": [
+        { "title": "T1 - Cap 1", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x01.mp4" },
+        { "title": "T1 - Cap 2", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x02.mp4" },
+        { "title": "T1 - Cap 3", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x03.mp4" },
+        { "title": "T1 - Cap 4", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x04.mp4" },
+        { "title": "T1 - Cap 5", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x05.mp4" },
+        { "title": "T1 - Cap 6", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x06.mp4" },
+        { "title": "T1 - Cap 7", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x07.mp4" },
+        { "title": "T1 - Cap 8", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x08.mp4" },
+        { "title": "T2 - Cap 1", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x01.mp4" },
+        { "title": "T2 - Cap 2", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x02.mp4" },
+        { "title": "T2 - Cap 3", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x03.mp4" },
+        { "title": "T2 - Cap 4", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x04.mp4" },
+        { "title": "T2 - Cap 5", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x05.mp4" },
+        { "title": "T2 - Cap 6", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x06.mp4" },
+        { "title": "T2 - Cap 7", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x07.mp4" },
+        { "title": "T2 - Cap 8", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x08.mp4" },
+        { "title": "T2 - Cap 9", "url": "https://archive.org/download/stranger-things-2/Stranger%20Things%20Temporada%202/Stranger%20Things%202x09.mp4" },
+        { "title": "T3 - Cap 1", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x01.mp4" },
+        { "title": "T3 - Cap 2", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x02.mp4" },
+        { "title": "T3 - Cap 3", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x03.mp4" },
+        { "title": "T3 - Cap 4", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x04.mp4" },
+        { "title": "T3 - Cap 5", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x05.mp4" },
+        { "title": "T3 - Cap 6", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x06.mp4" },
+        { "title": "T3 - Cap 7", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x07.mp4" },
+        { "title": "T3 - Cap 8", "url": "https://archive.org/download/stranger-things-3/Stranger%20Things%20Temporada%203/Stranger%20Things%203x08.mp4" }
+      ]
+    },
+    {
+      "id": "ser_06",
+      "title": "Malcolm el de en medio",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "shortDescription": "Un niño genio intenta sobrevivir en su familia disfuncional.",
+      "episodes": [
+        { "title": "Capítulo 1", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E01.mp4" },
+        { "title": "Capítulo 2", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E02.mp4" },
+        { "title": "Capítulo 3", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E03.mp4" },
+        { "title": "Capítulo 4", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E04.mp4" },
+        { "title": "Capítulo 5", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E05.mp4" },
+        { "title": "Capítulo 6", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E06.mp4" },
+        { "title": "Capítulo 7", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E07.mp4" },
+        { "title": "Capítulo 8", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E08.mp4" },
+        { "title": "Capítulo 9", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E09.mp4" },
+        { "title": "Capítulo 10", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E10.mp4" },
+        { "title": "Capítulo 11", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E11.mp4" },
+        { "title": "Capítulo 12", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E12.mp4" },
+        { "title": "Capítulo 13", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E13.mp4" },
+        { "title": "Capítulo 14", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E14.mp4" },
+        { "title": "Capítulo 15", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E15.mp4" },
+        { "title": "Capítulo 16", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E16.mp4" }
+      ]
+    },
+    {
+      "id": "ser_07",
+      "title": "El Chavo del Ocho",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
+      "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
+      "episodes": [
+        { "title": "Capítulo 1", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E01.mp4" },
+        { "title": "Capítulo 2", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E02.mp4" },
+        { "title": "Capítulo 3", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E03.mp4" },
+        { "title": "Capítulo 4", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E04.mp4" },
+        { "title": "Capítulo 5", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E05.mp4" },
+        { "title": "Capítulo 6", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E06.mp4" },
+        { "title": "Capítulo 7", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E07.mp4" },
+        { "title": "Capítulo 8", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E08.mp4" },
+        { "title": "Capítulo 9", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E09.mp4" },
+        { "title": "Capítulo 10", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E10.mp4" }
+      ]
+    }
   ]
 }
