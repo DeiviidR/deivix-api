@@ -380,11 +380,11 @@
     },
     {
       "id": "mov_48",
-      "title": "El Payaso del Mal (Clown)",
-      "shortDescription": "Un padre encuentra un traje de payaso para el cumpleaños de su hijo, pero está maldito.",
+      "title": "It (Eso)",
+      "shortDescription": "Siete niños conocidos como 'El Club de los Perdedores' se enfrentan a problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise",
       "thumbnail": "https://image.tmdb.org/t/p/w500/yt3GUyWg5GJianhLfcwTIdLGim8.jpg",
       "genres": ["Terror"],
-      "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/El%20Payaso%20Del%20Mal.mp4", "quality": "HD", "videoType": "MP4"}] }
+      "content": { "videos": [{"url": "https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/It%20%28Eso%29%20%282017%29%20%20parte%201%20HD%201080p%20Latino.mp4", "quality": "HD", "videoType": "MP4"}] }
     }
   ],
   "series": [
@@ -559,5 +559,6 @@
     }
   ]
 }
+
 
 
