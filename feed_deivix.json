@@ -104,7 +104,7 @@
       "shortDescription": "Tony Stark intenta reactivar un programa para mantener la paz.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/jzV7Ic4fa4bMM2Wn2MblKPmttmH.jpg",
       "genres": ["Acción"],
-      "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202015%201%20Los%20Vengadores%20La%20Era%20de%20Ultr%C3%B3n,ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+      "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202015%201%20Los%20Vengadores%20La%20Era%20de%20Ultr%C3%B3n.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
       "id": "mov_14",
@@ -559,6 +559,7 @@
     }
   ]
 }
+
 
 
 
