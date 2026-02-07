@@ -313,7 +313,7 @@
       "title": "Todopoderoso",
       "shortDescription": "Bruce Nolan recibe los poderes de Dios para ver si puede hacer un mejor trabajo.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/xPYwuwWIX2Y9JUSIydRJyX1ivA1.jpg",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/mRXHHFDcqZOjv73mYf8cP6IlTuq.jpg" ,
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/5iTtqI1i35MAtUJcYDTMRcuowHV.jpg" ,
       "genres": ["Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/todopoderoso_202409/Todopoderoso.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
@@ -533,7 +533,7 @@
     {
       "id": "ser_05",
       "title": "Stranger Things",
-      "thumbnail": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "shortDescription": "Un grupo de niños descubre secretos sobrenaturales en Hawkins.",
       "episodes": [
         { "title": "T1 - Cap 1", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x01.mp4" },
@@ -607,6 +607,7 @@
     }
   ]
 }
+
 
 
 
