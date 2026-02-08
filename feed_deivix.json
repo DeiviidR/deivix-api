@@ -8,7 +8,7 @@
       "shortDescription": "Miles Morales se une a otros Spider-Man de dimensiones paralelas.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/gci9kykK3oDlQuR1n8c8DvvjOsz.jpg",
-      "genres": ["Animación"],
+      "genres": ["Animación", "Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/hombre-arana-un-nuevo-universo/Hombre%20ara%C3%B1a%20un%20nuevo%20universo.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -17,7 +17,7 @@
       "shortDescription": "Blu, un guacamayo domesticado, viaja a Río de Janeiro.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/tyRU9m0XyHMygRveyqu0kKjKrLS.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/eOMAToR0M9yvUgtcqXWMFTDiM1k.jpg" ,
-      "genres": ["Animación"],
+      "genres": ["Animación", "Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/rio_20240926/Rio.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -26,7 +26,7 @@
       "shortDescription": "Un cuento de hadas en Nueva Orleans con jazz y vudú.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/93SafdqY9QoibLBBwCFhjtXVrUT.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/hAAElCRTVBlwum680kdRXlXicx8.jpg" ,
-      "genres": ["Animación"],
+      "genres": ["Animación", "Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/gigi-la-princesa-y-el-sapo-2009-latino-toky-video/%E3%80%8EGigi%E2%99%A1%E3%80%8F%E2%AA%BCLa%20Princesa%20y%20El%20Sapo%20%282009%29%20Latino%20-%20TokyVideo.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -44,7 +44,7 @@
       "shortDescription": "Viaje a través de un agujero de gusano para salvar a la humanidad.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/pbrkL804c8yAv3zBZR4QPEafpAR.jpg" ,
-      "genres": ["Sci-Fi"],
+      "genres": ["Sci-Fi", "Drama"],
       "content": { "videos": [{"url": "https://archive.org/download/interstellar-2014_202409/Interstellar%282014%29.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -53,7 +53,7 @@
       "shortDescription": "Los Vengadores restantes deben reunir fuerzas para deshacer las acciones de Thanos.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/uRpmKGACAMidE4V73dy8xKTnejj.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/h9q0ozwMWy7CK5U7FSZsMVtbsCQ.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202019%202%20Avengers%20Endgame.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -62,7 +62,7 @@
       "shortDescription": "Los Vengadores se unen para combatir al poderoso Thanos.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/7lzBMZpwWQC3Tv8TGKMeEhRaR5i.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/mRXHHFDcqZOjv73mYf8cP6IlTuq.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202018%202%20Avengers%20Infinity%20War.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -71,7 +71,7 @@
       "shortDescription": "Wakanda lucha para proteger su nación tras la muerte del Rey T'Challa.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/3nRpczJi9l1zfc726hzxoD55mKS.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/yPCuzQNNiA6e8lIMFyh2DhYr4Mi.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202022%203%20Pantera%20Negra%20Wakanda%20Por%20Siempre.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -80,7 +80,7 @@
       "shortDescription": "T'Challa regresa a casa para tomar su lugar como Rey de Wakanda.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/jyasN851E8kOD3qCSTzU4sYAk31.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/1OAkwZl1pTZEsR5oTdhDQgYTgcp.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202018%201%20Pantera%20Negra.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -89,7 +89,7 @@
       "shortDescription": "Strange viaja a lo desconocido con ayuda de nuevos aliados místicos.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/dw0ZOg7kUvd0lX9M3bkmFQdnuEO.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/gN264FfwGRU0ixdEmMQOjClQ1Kk.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202022%201%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -98,7 +98,7 @@
       "shortDescription": "Un brillante neurocirujano descubre el mundo de las artes místicas.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/tdYWrOQtIedXpnUY2wKlhELy0Ap.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/f3ztGYRLckHANJWr50mKnmOJHHN.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202016%202%20Doctor%20Strange%20Hechicero%20Supremo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -107,7 +107,7 @@
       "shortDescription": "Wolverine se recupera de sus heridas cuando se cruza con el bocazas.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/sulIzxysNCxQY7DVQ5WlH4gzvp1.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/bpCs9rHiNR2J4hIncrOCSuD4icO.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Acción", "Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202024%20Deadpool%20%26%20Wolverine.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -116,7 +116,7 @@
       "shortDescription": "Tony Stark intenta reactivar un programa para mantener la paz.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/jzV7Ic4fa4bMM2Wn2MblKPmttmH.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/5a3ltZ3is7GOxGJtGkBy06kQ98z.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202015%201%20Los%20Vengadores%20La%20Era%20de%20Ultr%C3%B3n.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -125,7 +125,7 @@
       "shortDescription": "Los héroes más poderosos de la Tierra deben unirse.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/qyNX4w5T5HpMHvYPRih7jTnD5Fj.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/9XAt3insTWL3jDADvWkO5IJAOM8.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202012%20Los%20Vengadores.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -134,7 +134,7 @@
       "shortDescription": "Steve Rogers se convierte en el Capitán América durante la Segunda Guerra Mundial.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/vAOy3JW7JSiZBUwy72g8a8V6b1m.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/bi8N8SC87XqZkImO3jBHFzcVzN8.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202011%202%20Capit%C3%A1n%20Am%C3%A9rica%20El%20Primer%20Vengador.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -143,7 +143,7 @@
       "shortDescription": "El poderoso Thor es desterrado a la Tierra.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/l4EFEJWOCDb83j8Jl94SieZIwt.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/3XyaYiOHldsNhwnXKDRYOpFc1nB.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202011%201%20Thor.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -152,7 +152,7 @@
       "shortDescription": "Tony Stark enfrenta presiones del gobierno y nuevos enemigos.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/vioYkmuRlnWr4dZQSblkGSIlzS9.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/hCVQPB77eXBGh9abVdrWtKpKgkN.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202010%20Iron%20Man%202.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -161,7 +161,7 @@
       "shortDescription": "Tony Stark construye una armadura para luchar contra el mal.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/6F4crJ62G5kTkOVdhnTYvQeqEP9.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/8EgxSaVRZwcm3pWChyW4j7yPplq.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Marvel", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202008%202%20Iron%20Man%20El%20Hombre%20De%20Hierro.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -170,7 +170,7 @@
       "shortDescription": "Peter Parker enfrenta sus demonios internos y nuevos villanos.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/1OdZzCilLUJrFdBXSNTsFYGJCzR.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/a6lJwBf62zCmMQMunhAKimX7Mnp.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Acción", "Drama"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/El%20Hombre%20Ara%C3%B1a%203.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -179,7 +179,7 @@
       "shortDescription": "Peter Parker lucha por equilibrar su vida con el Doctor Octopus.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/zCs2w78wj5QUxgivYMaD6o1LHf5.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/faV0HuR6WnQoLrVq3r6mhjaABL9.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Acción", "Drama"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/El%20Hombre%20Ara%C3%B1a%202.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -188,7 +188,7 @@
       "shortDescription": "Un estudiante mordido por una araña genéticamente modificada gana superpoderes.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/fSZsgRkkANA6eQVuK5GdnFklF52.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/i4sogvMgx8WGWYRCUzxtaR2j9bO.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Acción", "Drama"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/El%20Hombre%20Ara%C3%B1a%201.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -197,7 +197,7 @@
       "shortDescription": "Un misterioso enmascarado lucha contra un gobierno totalitario.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/auSKKOjVyR8RGd5BhfCu2vzGMCO.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/cKMZqcYKMvuoESDa8O5NMojdmfL.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Acción", "Suspenso"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/V%20For%20Vendetta.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -206,7 +206,7 @@
       "shortDescription": "Batman se enfrenta al Joker, una mente criminal que quiere ver a Gotham arder.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/6lHRQMNz0L4tRLboJdkp27FbJGJ.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Acción", "Suspenso"],
       "content": { "videos": [{"url": "https://archive.org/download/el.-caballero.-de.-la.-noche.-audio-latino.-digitalizado/El.Caballero.De.La.Noche.AudioLatino.%28Digitalizado%29.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -215,7 +215,7 @@
       "shortDescription": "Una mujer desarrolla habilidades sobrehumanas tras absorber una droga.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/mnF8UA2ft1mjvga7t2W9MlysXla.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/1hzH1Wu2xhXBNOWzw3RMwNTJX5q.jpg" ,
-      "genres": ["Acción"],
+      "genres": ["Sci-Fi", "Drama"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/Lucy.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -233,7 +233,7 @@
       "shortDescription": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/8eWOfiFdhuW1Q4JiBA1qN9xa4DD.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/c2G8CLSH2XRhuuXnnUMssvhCB62.jpg" ,
-      "genres": ["Sci-Fi"],
+      "genres": ["Sci-Fi", "Drama"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Origen.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -242,7 +242,7 @@
       "shortDescription": "En 2035, un detective investiga un crimen que pudo haber sido perpetrado por un robot.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/wb8O7Vk3TlUQuVL0wuneNV8ZVmS.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/uO8limh09mJrFDTbGzgh2kyIMR6.jpg" ,
-      "genres": ["Sci-Fi"],
+      "genres": ["Sci-Fi", "Acción"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Yo%20Robot.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -305,7 +305,7 @@
       "shortDescription": "Una graduada consigue trabajo como asistente de una exigente editora de moda.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/n1g2zV9YqgqCeuP54d5eZp2jp1c.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/39dhFh6wdplXRfRnXEFDLJawy0D.jpg" ,
-      "genres": ["Comedia"],
+      "genres": ["Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/el-diablo-viste-a-la-moda-1080p-id-350_202012/El%20diablo%20viste%20a%20la%20moda%201080p%20id_350.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -350,7 +350,7 @@
       "shortDescription": "Una madre y su hija intercambian cuerpos mágicamente.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/fg7mZZbS3nzp6YX5tXh9FhxIxLS.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/cTGeY2fdf0eLubvEFZAGcr2PfLZ.jpg" ,
-      "genres": ["Comedia", "Familia"],
+      "genres": ["Familia", "Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Un%20Viernes%20De%20Locos.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -359,7 +359,7 @@
       "shortDescription": "Un rudo SEAL de la marina debe proteger a unos niños rebeldes.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/uTbaH2x5jmgl6N7khbWkFuqVdvd.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/fcnWodiHuDZUvlLRp9nXYUcP1SR.jpg" ,
-      "genres": ["Comedia", "Familia"],
+      "genres": ["Familia", "Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Una%20Ni%C3%B1era%20A%20Prueba%20De%20Balas.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -368,7 +368,7 @@
       "shortDescription": "Un mariscal de campo descubre que tiene una hija de 8 años.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/jPdo02i5xTgJEISy3xggWWRwlGc.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/j3dzOC3DUTNtIMxTdykfYB3cZmz.jpg" ,
-      "genres": ["Comedia", "Familia"],
+      "genres": ["Familia", "Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Entrenando%20A%20Papa.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -377,7 +377,7 @@
       "shortDescription": "Maggie Peyton quiere convertirse en piloto de NASCAR con su auto mágico.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/nEmoc4Nv8rgEmgmdd6G3OryhnpD.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/zJIqixtkWWnTBPuXGvmpl1KjGmy.jpg" ,
-      "genres": ["Comedia", "Familia"],
+      "genres": ["Familia", "Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Herbie%20A%20Toda%20Marcha.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -395,7 +395,7 @@
       "shortDescription": "Las historias que un hombre cuenta a sus sobrinos se vuelven realidad.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/7dPyZQSUYRbLbW1JHg6lkbB9v6M.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/lrQtbANU5t61tNqZASVmQqgXasb.jpg" ,
-      "genres": ["Familia", "Comedia"],
+      "genres": ["Comedia", "Fantasia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Cuentos%20Que%20No%20Son%20Cuentos.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -404,7 +404,7 @@
       "shortDescription": "Cuatro hermanos entran a un armario mágico y descubren el mundo de Narnia.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/dbI57g2XoUv60uJWfXpEGb4ausa.jpg" ,
-      "genres": ["Fantasía", "Familia"],
+      "genres": ["Familia", "Fantasia"],
       "content": { "videos": [{"url": "https://archive.org/download/1-ropero/1%20Ropero.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -441,6 +441,8 @@
       "title": "Yo soy Betty, la fea",
       "thumbnail": "https://image.tmdb.org/t/p/w500/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
       "shortDescription": "La historia de Beatriz Pinzón Solano, una mujer brillante pero poco atractiva.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/ftiQHOrAGTGXVsJ1pcAVC5Dau78.jpg",
+      "genres" : ["Novela", "Comedia"] ,
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E02.mp4" },
@@ -463,6 +465,8 @@
       "title": "Cosmos: Una odisea en el espacio",
       "thumbnail": "https://image.tmdb.org/t/p/w500/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",
       "shortDescription": "Un viaje fascinante a través del universo y la ciencia.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/2Nu92BI6BjqsoTOzQG3BonDCi0g.jpg",
+      "genres" : ["Documental", "Sci-Fi"] ,
       "episodes": [
         { "title": "Cap 1: De Pie en la Vía Láctea", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%201-%20De%20Pie%20en%20la%20V%C3%ADa%20L%C3%A1ctea.%20%5BLatino%5D.mp4" },
         { "title": "Cap 2: Evolución molécula a molécula", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%202-%20Evoluci%C3%B3n%20mol%C3%A9cula%20a%20mol%C3%A9cula%20%5BLatino%5D.mp4" },
@@ -484,6 +488,8 @@
       "title": "Dino Rey",
       "thumbnail": "https://image.tmdb.org/t/p/w500/oQfcMJu1gvbmp50jftvRnc0ijgP.jpg",
       "shortDescription": "El Equipo D viaja por el mundo para salvar a los dinosaurios.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/klYsm5j7vqtuZzsNQfv2raI7cYX.jpg" ,
+      "genres" : ["Anime"] ,
       "episodes": [
         { "title": "T1 - Cap 1", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764606684735.mp4" },
         { "title": "T1 - Cap 2", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764606768117.mp4" },
@@ -517,6 +523,8 @@
       "title": "Boku no Hero Academia",
       "thumbnail": "https://image.tmdb.org/t/p/w500/sSELYoag7grJVTnEFWfTvWXCjGT.jpg",
       "shortDescription": "Izuku Midoriya sueña con ser un héroe a pesar de no tener poderes.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/9yqoUvoPIXYtyflVEwmSuUdrQip.jpg",
+      "genres" : ["Anime"] ,
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/1_20221125_20221125_1451/1.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/1_20221125_20221125_1451/2.mp4" },
@@ -535,6 +543,8 @@
       "title": "Stranger Things",
       "thumbnail": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "shortDescription": "Un grupo de niños descubre secretos sobrenaturales en Hawkins.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
+      "genres" : ["Originales", "Acción"] ,
       "episodes": [
         { "title": "T1 - Cap 1", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x01.mp4" },
         { "title": "T1 - Cap 2", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x02.mp4" },
@@ -568,6 +578,8 @@
       "title": "Malcolm el de en medio",
       "thumbnail": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
       "shortDescription": "Un niño genio intenta sobrevivir en su familia disfuncional.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/5Nrh0PtHuU41f6F8m5WbGm2iEQa.jpg",
+      "genres" : ["Comedia"] ,
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E02.mp4" },
@@ -592,6 +604,8 @@
       "title": "El Chavo del Ocho",
       "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
       "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
+      "genres" : ["Novela", "Comemdia"] ,
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E02.mp4" },
@@ -607,6 +621,7 @@
     }
   ]
 }
+
 
 
 
