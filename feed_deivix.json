@@ -636,8 +636,8 @@
     "id": "mov_71",
     "title": "Depredador 2",
     "shortDescription": "Un cazador alienígena acecha las calles de Los Ángeles en medio de una guerra de bandas.",
-    "thumbnail": "https://image.tmdb.org/t/p/original/oEuKvvYRSAkITdWjqCCufDrHODN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/zQLzJPgx91mKmZq3FZ37xFurvAU.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/oEuKvvYRSAkITdWjqCCufDrHODN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ff40E4eEE3xkWBOH7RmZvjq4cnN.jpg",
     "genres": ["Acción", "Terror"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-1990/Ver%20Depredador%202%20%28Predator%202%29%20%281990%29%20Online%20Latino%20HD.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
@@ -1389,3 +1389,4 @@
     }
   ]
 }
+
