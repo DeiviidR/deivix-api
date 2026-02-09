@@ -1153,7 +1153,34 @@
     "backdrop": "https://image.tmdb.org/t/p/w1280/uhEDTDCn7TlX75EPGE0WRDyj1d3.jpg",
     "genres": ["Animación"],
     "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Grandes%20h%C3%A9roes%20%282014%29%20Chris%20Williams%2C%20Don%20Hall%20%40cesser16.mp4", "quality": "HD", "videoType": "MP4"}] }
-  }
+  },
+  {
+    "id": "mov_129",
+      "title": "El Precio del Mañana",
+      "shortDescription": "Ambientada en una sociedad futura. El hallazgo de una fórmula contra el envejecimiento trae consigo no solo superpoblación, sino también la transformación del tiempo en moneda de cambio, que permite sufragar tanto lujos como necesidades.",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/25sPcNnjqXx3TT6IHPC5zF6gP4M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6M3L207jERvFwEoRJN0WQCa1TBm.jpg",
+      "genres": ["Drama", "Acción"],
+      "content": { "videos": [{"url": "https://archive.org/download/el-precio-del-manana/El%20precio%20del%20ma%C3%B1ana.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+    },
+  {
+    "id": "mov_130",
+      "title": "Volver al Futuro",
+      "shortDescription": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido.",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/vDCeIYfgO3HUZBYw8Qv0OrqN7vD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/niuagPaQqntfGduCInm0DlZbtE1.jpg",
+      "genres": ["Sci-Fi", "Familia"],
+      "content": { "videos": [{"url": "https://archive.org/download/1985-volver-al-futuro-en-espanol-latino/%281985%29%20Volver%20al%20Futuro%20%28Robert%20Zemeckis%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+    },
+  {
+    "id": "mov_131",
+      "title": "Reto Tokio",
+      "shortDescription": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. Su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/iKlO5uVXQo3f78uCqjcB6b31eir.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gqejSQWoMnYQOHC9OtdWv3Xi2Mj.jpg",
+      "genres": ["Acción", "Familia"],
+      "content": { "videos": [{"url": "https://archive.org/download/2006-tokio-drift/2006_Tokio_Drift.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+    }
   ],
   "series": [
     {
@@ -1389,4 +1416,5 @@
     }
   ]
 }
+
 
