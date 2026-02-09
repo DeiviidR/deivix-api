@@ -636,8 +636,8 @@
     "id": "mov_71",
     "title": "Depredador 2",
     "shortDescription": "Un cazador alienígena acecha las calles de Los Ángeles en medio de una guerra de bandas.",
-    "thumbnail": "",
-    "backdrop": "",
+    "thumbnail": "https://image.tmdb.org/t/p/original/oEuKvvYRSAkITdWjqCCufDrHODN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zQLzJPgx91mKmZq3FZ37xFurvAU.jpg",
     "genres": ["Acción", "Terror"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-1990/Ver%20Depredador%202%20%28Predator%202%29%20%281990%29%20Online%20Latino%20HD.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
@@ -773,7 +773,7 @@
     "shortDescription": "Un recorrido visual por la asombrosa biodiversidad y paisajes de Colombia.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/2kjKdxpmvtFMmIFsNzjDMlNCWTc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/py4jc8WlGsxr9A1b2TuMTbQmvdA.jpg",
-    "genres": [“Drama”, "Documental"],
+    "genres": ["Drama"],
     "content": { "videos": [{"url": "https://archive.org/download/colombia-magia-salvaje-1080-p-hd/Colombia%20Magia%20Salvaje%281080P_HD%29.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -1338,9 +1338,36 @@
         { "title": "Capítulo 9", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E09.mp4" },
         { "title": "Capítulo 10", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E10.mp4" }
       ]
+    },
+      {
+      "id": "ser_08",
+      "title": "Malcolm el de en medio",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "shortDescription": "Un niño genio intenta sobrevivir en su familia disfuncional.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/5Nrh0PtHuU41f6F8m5WbGm2iEQa.jpg",
+      "genres" : ["Comedia"] ,
+      "episodes": [
+        { "title": "Capítulo 1", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E01.mp4" },
+        { "title": "Capítulo 2", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E02.mp4" },
+        { "title": "Capítulo 3", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E03.mp4" },
+        { "title": "Capítulo 4", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E04.mp4" },
+        { "title": "Capítulo 5", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E05.mp4" },
+        { "title": "Capítulo 6", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E06.mp4" },
+        { "title": "Capítulo 7", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E07.mp4" },
+        { "title": "Capítulo 8", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E08.mp4" },
+        { "title": "Capítulo 9", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E09.mp4" },
+        { "title": "Capítulo 10", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E10.mp4" },
+        { "title": "Capítulo 11", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E11.mp4" },
+        { "title": "Capítulo 12", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E12.mp4" },
+        { "title": "Capítulo 13", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E13.mp4" },
+        { "title": "Capítulo 14", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E14.mp4" },
+        { "title": "Capítulo 15", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E15.mp4" },
+        { "title": "Capítulo 16", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E16.mp4" }
+      ]
     }
   ]
 }
+
 
 
 
