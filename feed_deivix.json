@@ -1428,9 +1428,9 @@
     {
       "id": "ser_09",
       "title": "Your Lie in April",
-      "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/92P9cD5uOzLVgx0QDTnwkXffjEG.jpg",
       "shortDescription": "Un prodigio del piano que perdió su música recupera el color de su vida al conocer a una violinista de espíritu libre y secretos profundos.",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wEaHjTczJaJfDdCwkuaueI70ggx.jpg",
       "genres": ["Anime"],
       "episodes": [
         { "title": "Capítulo 1: Monocromo, A color", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x01%20-%20Monocromo%2C%20A%20color.mp4" },
@@ -1497,6 +1497,7 @@
     }
   ]
 }
+
 
 
 
