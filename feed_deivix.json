@@ -324,7 +324,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/awJby5DNKNK3WsHMnBLoHHNCnmU.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/sQhpJhGj5gsQ8IeiVg0ZlCw9EPp.jpg" ,
       "genres": ["Comedia"],
-      "content": { "videos": [{"url": "https://archive.org/download/y-donde-estan-las-rubias-latino-completa-720-p-hd/Y%20Donde%20estan%20las%20rubias%20_%20Latino%20Completa%28720P_HD%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+      "content": { "videos": [{"url": "https://archive.org/download/inseparables-2016/097653%C2%BFY%20Donde%20Estan%20Las%20Rubias99856.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
       "id": "mov_37",
@@ -373,12 +373,12 @@
     },
     {
       "id": "mov_42",
-      "title": "Herbie: A Toda Marcha",
-      "shortDescription": "Maggie Peyton quiere convertirse en piloto de NASCAR con su auto mágico.",
-      "thumbnail": "https://image.tmdb.org/t/p/w500/nEmoc4Nv8rgEmgmdd6G3OryhnpD.jpg",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/zJIqixtkWWnTBPuXGvmpl1KjGmy.jpg" ,
-      "genres": ["Familia", "Comedia"],
-      "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Herbie%20A%20Toda%20Marcha.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+      "title": "Spider-Man De Regreso a Casa",
+      "shortDescription": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man.",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/j4vEhYjOG3CEdh5GIycTWk5vz7T.jpg",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/mQkaxm35T3kejiK3WUQVQi59Vyk.jpg" ,
+      "genres": ["Marvel", "Familia"],
+      "content": { "videos": [{"url": "https://archive.org/download/17-spider-man-de-regreso-a-casa/17%20Spider-Man%20De%20Regreso%20a%20Casa.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
       "id": "mov_43",
@@ -433,7 +433,727 @@
       "backdrop" : "https://image.tmdb.org/t/p/w1280/meIfBoo4dBPBgRXAwfsLxabX85h.jpg" ,
       "genres": ["Terror"],
       "content": { "videos": [{"url": "https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/It%20%28Eso%29%20%282017%29%20%20parte%201%20HD%201080p%20Latino.mp4", "quality": "HD", "videoType": "MP4"}] }
-    }
+    },
+    {
+    "id": "mov_49",
+    "title": "Los Pingüinos de Papá",
+    "shortDescription": "La vida de un empresario cambia cuando hereda seis pingüinos.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/867maSwmK4RCkXyMFwH2UMAdZzu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/afSIvFFagSTqeAagnk6Zdlyk3Qq.jpg",
+    "genres": ["Comedia", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/Los%20Ping%C3%BCinos%20De%20Pap%C3%A1.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_50",
+    "title": "Life: Vida Inteligente",
+    "shortDescription": "Científicos en el espacio descubren una forma de vida que evoluciona rápidamente.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/mSAZlDuiJipbkQ1Ws3MLYxGYmt0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/haEACwDiVTnPFcwd9KDlZBae1Ef.jpg",
+    "genres": ["Sci-Fi", "Terror"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/Life%20Vida%20Inteligente.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_51",
+    "title": "La Bella y la Bestia",
+    "shortDescription": "Una joven soñadora se ofrece a vivir en un castillo con una bestia para salvar a su padre.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2q38CCkPvhm8DVHazY9QLQtHQoO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3oqPgbFReco3GR6LweLVgoR1GPS.jpg",
+    "genres": ["Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/La%20Bella%20Y%20La%20Bestia.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_52",
+    "title": "Bright",
+    "shortDescription": "En un mundo donde humanos y criaturas místicas conviven, dos policías encuentran un objeto de poder.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/4xWEhLPlP9yg3DJbkKaBayBN98V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xgIxmqYPWIQUFWPcpVsWbKDHzmQ.jpg",
+    "genres": ["Acción", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/Bright.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_53",
+    "title": "Zathura: Una Aventura Espacial",
+    "shortDescription": "Dos hermanos son lanzados al espacio mientras juegan a un misterioso juego de mesa.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/svCwqsP9UDr14fYDLawJfDgEsSD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2DKpjWI0j6eRhF3lPUE4lc7wqP0.jpg",
+    "genres": ["Aventura", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Zathura%20Una%20Aventura%20Espacial.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_54",
+    "title": "Cuarentena",
+    "shortDescription": "Una reportera queda atrapada en un edificio donde se ha desatado una infección mortal.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/i0XtSYrilMps0e4ntE5CoZLTBwj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wT6g9M40DUoQM7uvy9s9vsqckfR.jpg",
+    "genres": ["Terror", "Misterio"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Cuarentena.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_55",
+    "title": "Chicas Pesadas",
+    "shortDescription": "Cady se infiltra en el grupo de las chicas más populares de la escuela.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/7OFVBwn3BGyqCa5oa7JXOIiTbd1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ae9ejrheEC0OTII08DvOQ1l1lNt.jpg",
+    "genres": ["Comedia"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Chicas%20Pesadas.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_56",
+    "title": "Arrástrame al Infierno",
+    "shortDescription": "Una empleada de banco recibe una maldición tras negar un préstamo a una anciana.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/l7RuQEkg2yTF04mHrE7kBKf7S3A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ydb9rJ6gX90xPUUk6UVWY7jwmY.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Arr%C3%A1strame%20Al%20Infierno.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_57",
+    "title": "Quieren volverme Loco",
+    "shortDescription": "Un hombre intenta conquistar a una madre soltera llevando a sus hijos de viaje.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/fmRaCIjWBYJNV5gGqauljy7bLdb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8BGS9n15tkLmcPZR0ZFcXfvrHiP.jpg",
+    "genres": ["Comedia", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/quieren-volverme-loco-2005-espanol-latino/Quieren%20Volverme%20Loco%20%282005%29%20%28Espa%C3%B1ol%20Latino%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_58",
+    "title": "El Jorobado de Notre Dame",
+    "shortDescription": "Quasimodo lucha por ser aceptado en la sociedad parisina desde el campanario de la catedral.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oslaee3VX9kJAjVezbjZKlEJDzn.jpg",
+    "genres": ["Animación", "Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/gigi-el-jorobado-de-notre-dame-1996-latino-toky-video/%E3%80%8EGigi%E2%99%A1%E3%80%8F%E2%AA%BCEl%20Jorobado%20De%20Notre%20Dame%20%281996%29%20Latino%20-%20TokyVideo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_59",
+    "title": "Barbie",
+    "shortDescription": "Barbie abandona Barbieland para descubrir el mundo real y encontrar su propósito.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p7V6rKcYe8OMGEJzDSJ6eOXMaG7.jpg",
+    "genres": ["Comedia", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/barbie_202405/Barbie.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_60",
+    "title": "El Extraño Mundo de Jack",
+    "shortDescription": "El rey de Halloween decide secuestrar la Navidad para darle su propio estilo.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/sPAPFeEi820pZtm2Y77tv8vQJnM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8Car2469JliQTpi7Yfa9BuMJV7F.jpg",
+    "genres": ["Animación", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/el-extrano-mundo-de-jack-1993-espanol-latino-c-nando-urhopelis-toky-video/El%20extra%C3%B1o%20mundo%20de%20Jack%20%281993%29%20Espa%C3%B1ol%20Latino%20_%20%C2%A9%20Nando%20-%20urhopelis%20-%20TokyVideo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_61",
+    "title": "La Era de Hielo",
+    "shortDescription": "Un mamut, un perezoso y un tigre dientes de sable intentan devolver a un bebé humano a su tribu.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rZADxl1kLwMQJa5o1VHdKrWtOp7.jpg",
+    "genres": ["Animación", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/los-cr-00ds-2013-audio-espanol/La%20era%20de%20hielo%201%20%282002%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_62",
+    "title": "La Era de Hielo 2",
+    "shortDescription": "Nuestros héroes deben escapar de una inundación masiva provocada por el deshielo.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/gs84R3mH9dUz56jvE6KcosRSNub.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tg1sK8W4jsTRk8X9evnY5C5Qo18.jpg",
+    "genres": ["Animación", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/los-cr-00ds-2013-audio-espanol/La%20era%20de%20hielo%202%20%282006%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_63",
+    "title": "Mi Villano Favorito",
+    "shortDescription": "Un supervillano planea robar la luna mientras cuida inesperadamente a tres niñas huérfanas.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/opIScoQb0ODZzatdwC9xcsjeXmz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4Q7QfL0NSapNWKW5ZOIliJ0tSc1.jpg",
+    "genres": ["Animación", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/los-cr-00ds-2013-audio-espanol/Mi%20villano%20favorito%201.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_64",
+    "title": "Pinocho de Guillermo del Toro",
+    "shortDescription": "Una versión oscura y mágica del cuento clásico de la marioneta que cobra vida.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/mJLFkiATSjU9sbtblR1yFWhHs4h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7IutIcpmYfz6jfNC4MNI52Vj44f.jpg",
+    "genres": ["Animación", "Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/los-cr-00ds-2013-audio-espanol/Pinocho%20de%20Guillermo%20del%20Toro.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_65",
+    "title": "Siete Almas",
+    "shortDescription": "Un hombre busca redención transformando la vida de siete personas desconocidas.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/3z8EmLOiOWOgf3gyeobCoFWelcp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9sX5OSMdVcQjrkmJUA8IyfxmSY7.jpg",
+    "genres": ["Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/los-cr-00ds-2013-audio-espanol/Siete%20Almas%20%282008%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_66",
+    "title": "Stuart Little",
+    "shortDescription": "Una familia humana adopta a un pequeño ratón llamado Stuart como su nuevo hijo.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/jnx9DbsR3it6yEPRwNS9KA6ITXn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dECKGAenue36W50HYhd3Jh1OJs.jpg",
+    "genres": ["Familia", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/20240405_20240405_2138/Stuart%20Little%201%20%281999%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_67",
+    "title": "Shrek",
+    "shortDescription": "Un ogro huraño se embarca en una misión para rescatar a una princesa y recuperar su pantano.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mZAwhoGH8isko20oE7xIQeXLe13.jpg",
+    "genres": ["Animación", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/shrek_202407/Shrek.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_68",
+    "title": "Shrek 2",
+    "shortDescription": "Shrek y Fiona viajan a Muy Muy Lejano para conocer a los padres de la princesa.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b33E34IywGC4NWYY3G1ck7uehNF.jpg",
+    "genres": ["Animación", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/shrek_202407/Shrek%202.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_69",
+    "title": "Monsters Inc",
+    "shortDescription": "Dos monstruos que trabajan asustando niños descubren que estos no son peligrosos.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/hHRvKl4zwS234fcjypa82A2Ecjr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iNM3FeO4Hshwtw05AMLT8XhaXCC.jpg",
+    "genres": ["Animación", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/inseparables-2016/Monsters%20%20Inc---%28Latino%29.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_70",
+    "title": "El Llanero Solitario",
+    "shortDescription": "Un guerrero nativo americano cuenta la historia de un hombre de ley transformado en leyenda.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/d3CDpP25e1sDluuvEbgnhl1Ovte.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tdwXdiNMrE8Uhxg5c4UZyz9uVOi.jpg",
+    "genres": ["Acción", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-1990/El%20Llanero%20Solitario.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_71",
+    "title": "Depredador 2",
+    "shortDescription": "Un cazador alienígena acecha las calles de Los Ángeles en medio de una guerra de bandas.",
+    "thumbnail": "",
+    "backdrop": "",
+    "genres": ["Acción", "Terror"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-1990/Ver%20Depredador%202%20%28Predator%202%29%20%281990%29%20Online%20Latino%20HD.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_72",
+    "title": "Ghost",
+    "shortDescription": "Un hombre asesinado intenta proteger a su novia desde el más allá con ayuda de una médium.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/gwli1EMll3AJfL5waL9SWEtg3ZI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lYKVqeNvIXYdKgJcu7GsA4uriyv.jpg",
+    "genres": ["Drama", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-1990/Ver%20Ghost-%20La%20Sombra%20del%20Amor%20%281990%29%20Online%20Latino%20HD.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_73",
+    "title": "Mi Pobre Angelito",
+    "shortDescription": "Un niño de ocho años debe defender su casa de dos ladrones tras ser olvidado por su familia.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eaLVtEf55f6MFW5gcMCZkgk6Jms.jpg",
+    "genres": ["Comedia", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-1990/Ver%20MI%20Pobre%20Angelito%201%20%281990%29%20Online%20Latino%20HD%20-.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_74",
+    "title": "Madagascar",
+    "shortDescription": "Animales del zoológico de Nueva York terminan perdidos en la selva de Madagascar.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/anhaAZx8YCCVbPNxK95OzdPxpav.jpg",
+    "genres": ["Animación", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/madagascar.-2005.-dvdrip.-latino.-xvi-d/Madagascar.2005.DVDRip.LATINO.XViD.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_75",
+    "title": "Dragon Ball Super: Broly",
+    "shortDescription": "Goku y Vegeta se enfrentan a Broly, un poderoso saiyajin con un poder destructivo.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6YLHej6gzfNkmsKA3TMwR0qj704.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fnnHdcWqoS0HhRSL7mXBpFfX9v5.jpg",
+    "genres": ["Animación", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/kratosloquendero/Dragon%20Ball%20Super%20-%20Broly.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_76",
+    "title": "Los Simpsons: La Película",
+    "shortDescription": "Homer provoca accidentalmente un desastre ecológico en Springfield.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/apfi5qOlTpAalYfXHqiQadO1K8g.jpg",
+    "genres": ["Animación", "Comedia"],
+    "content": { "videos": [{"url": "https://archive.org/download/kratosloquendero/Los%20Simpson%20-%20La%20pelicula.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_77",
+    "title": "Phineas y Ferb a través de la 2da Dimensión",
+    "shortDescription": "Phineas y Ferb descubren que su mascota Perry es un agente secreto en otra dimensión.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/wsoNKSlbWnr6xnLiGMaA2cVLUr8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lxvEooncqGQZVjIh5uBCQjvLrkf.jpg",
+    "genres": ["Animación", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/kratosloquendero/Phineas%20y%20ferb%20la%20pelicula%20a%20traves%20de%20la%202da%20dimension%20en%20fabuloso%202d.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_78",
+    "title": "El Remanente",
+    "shortDescription": "Un grupo de amigos lucha por sobrevivir tras una serie de eventos apocalípticos.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/gwnBj65qsQ9t5rRmcaGLZBXk2U6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lcR8o5Fqm5WfqWkldyV2ZPSqdp8.jpg",
+    "genres": ["Drama", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/El%20Remanente.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_79",
+    "title": "Hijo de Dios",
+    "shortDescription": "Relato de la vida de Jesús desde su nacimiento hasta su resurrección.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/pnORCAOUW0JKR84ueMap8GiBAoA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x3kmbbzUZVJJTQTTPQL9K9b84Bw.jpg",
+    "genres": ["Drama", "Histórico"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/Hijo%20de%20Dios.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_80",
+    "title": "La Historia de José",
+    "shortDescription": "La historia bíblica de José y su ascenso al poder en Egipto.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/vmqVZ58kQXj9lEWOPES7YeO9dOO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nlDkxq3BTv1VdLxXl3XH9yEczxP.jpg",
+    "genres": ["Animación", "Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/La%20Historia%20de%20Jose.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_81",
+    "title": "La Pasión de Cristo",
+    "shortDescription": "Las últimas doce horas en la vida de Jesús de Nazaret.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/qPSyfz3yzTHXh1s8KRNy5YMNQJL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7r36sdyShTCPzCTwm2wocffknNy.jpg",
+    "genres": ["Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/la-pasion-de-cristo-pelicula/Pel%C3%ADcula%20Completa%20Espa%C3%B1ol%20Latino%20La%20Pasi%C3%B3n%20De%20Cristo.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_82",
+    "title": "Los Diez Mandamientos",
+    "shortDescription": "Moisés lidera al pueblo hebreo fuera de Egipto hacia la Tierra Prometida.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ym3fLtradlKDhBK0WaeOjeTtrrB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3HyVZmVKLLQQr40a6iJAfAA5FLP.jpg",
+    "genres": ["Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/Los%20Diez%20Mandamientos.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_83",
+    "title": "El Príncipe de Egipto",
+    "shortDescription": "Dos hermanos criados como príncipes se enfrentan por el destino de un pueblo.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/dyHNyqc9UBhfLZpFM8GTQ9z8AvV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/565DYYXgdRYMiETLi2EDx4p7s92.jpg",
+    "genres": ["Animación", "Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/Moises%20El%20Principe%20de%20Egipto.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_84",
+    "title": "Jurassic World: El Reino Caído",
+    "shortDescription": "Owen y Claire regresan a la isla para rescatar a los dinosaurios de una erupción volcánica.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/vs3o8ytXcw142SA9DRhcIfj63VI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bkM5rjsg0UpINszikI49Y8nyO3B.jpg",
+    "genres": ["Acción", "Sci-Fi"],
+    "content": { "videos": [{"url": "https://archive.org/download/jurassic.world.fallen.kingdom.-2018.1080p-dual-lat-cinecalidad.to_202105/Jurassic.world.fallen.kingdom.2018.1080p-dual-lat-cinecalidad.to.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_85",
+    "title": "Batman Superman Enemigos Públicos",
+    "shortDescription": "Batman y Superman se unen cuando Lex Luthor los declara enemigos del estado.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/qYckc7dwtuIUlFEx1lallXFfYka.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rGgqwztE7v3jX3e7zWAIRy74vlH.jpg",
+    "genres": ["Animación", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/jurassic.world.fallen.kingdom.-2018.1080p-dual-lat-cinecalidad.to_202105/Superman~Batman%20-%20Enemigos%20p%C3%BAblicos.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_86",
+    "title": "Colombia Magia Salvaje",
+    "shortDescription": "Un recorrido visual por la asombrosa biodiversidad y paisajes de Colombia.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2kjKdxpmvtFMmIFsNzjDMlNCWTc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/py4jc8WlGsxr9A1b2TuMTbQmvdA.jpg",
+    "genres": [“Drama”, "Documental"],
+    "content": { "videos": [{"url": "https://archive.org/download/colombia-magia-salvaje-1080-p-hd/Colombia%20Magia%20Salvaje%281080P_HD%29.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_87",
+    "title": "La Estrategia del Caracol",
+    "shortDescription": "Inquilinos de un viejo edificio en Bogotá luchan por no ser desalojados de forma creativa.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/7Slakz6z2I3VJ684FuDP1ZLOQbi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kd8ahhxWK96M25dhStyZ7g285Eu.jpg",
+    "genres": ["Drama", "Comedia"],
+    "content": { "videos": [{"url": "https://archive.org/download/la-estrategia-del-caracol-1993-hd-espanol-latino-f/La_estrategia_del_caracol_%5B1993_HD%5D_Espa%C3%B1ol_latino_f_.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_88",
+    "title": "Monster House",
+    "shortDescription": "Tres adolescentes descubren que una casa vecina es en realidad un monstruo viviente.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uFO6V6TESVt8uftxVryd7XBdhOo.jpg",
+    "genres": ["Animación", "Terror"],
+    "content": { "videos": [{"url": "https://archive.org/download/monster-house-2006_202407/Monster%20House%20%282006%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_89",
+    "title": "Annabelle Creación",
+    "shortDescription": "El origen de la muñeca poseída que aterroriza a un grupo de niñas huérfanas.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/4vy44CJr3cI6sKLhlfAQWs0lUUg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8vFtjJ6sVxs0Vu8pHX6pqlGaDnB.jpg",
+    "genres": ["Terror"],
+    "content": { "videos": [{"url": "https://archive.org/download/amabel-2/amabel%202%20.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_90",
+    "title": "Liga de la Justicia de Zack Snyder",
+    "shortDescription": "Batman recluta a un equipo de metahumanos para proteger al mundo de Steppenwolf.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/wFl2rumfzQJzTf50WqmK7zDg6Aa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q6F31bIyIXEg3LdAEZyunyO918W.jpg",
+    "genres": ["Acción", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/la-liga-de-la-justicia-zack-snyders-cut/Ma%C3%B1ana%20Pasado/La%20Liga%20De%20La%20Justicia%20-%20Zack%20Snyders%20Cut.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_91",
+    "title": "Liga de la Justicia: Crisis en las Dos Tierras",
+    "shortDescription": "Héroes de universos paralelos se unen para enfrentar a una versión malvada de sí mismos.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/lNAlgY45SX7I2oTZksnHcqHPF6j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tWEcrdHbQLJUuetCQupgCJaTRQ9.jpg",
+    "genres": ["Animación", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/ligadelajusticiacrisisenlasdostierras/SAbado/Liga%20de%20la%20Justicia%20Crisis%20en%20las%20dos%20Tierras.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_92",
+    "title": "Cars",
+    "shortDescription": "Un coche de carreras engreído aprende sobre la amistad en un pequeño pueblo olvidado.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zknlUanky7QIoq3uY50DK9F8x1R.jpg",
+    "genres": ["Animación", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/c-4-r-5-1/C4R5_1.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_93",
+    "title": "Goofy la Película",
+    "shortDescription": "Goofy intenta reconectar con su hijo Max durante un accidentado viaje por carretera.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/dLJvlkB3S25vxosfEIHlewJXBxt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cTipiMvbw54ZgQqgxgNN8gHGGrS.jpg",
+    "genres": ["Animación", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/2074-goofy-la-pelicula-1995-d-s-spa-eng-v/2074-Goofy%20La%20Pelicula%20%281995%29%20D%20S%20spa%20eng%20v.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_94",
+    "title": "Rosario Tijeras",
+    "shortDescription": "La vida de una sicaria en el Medellín de los años 80 marcada por la violencia y el amor.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/sxaKqNtcFi9qkWraecFfg50PCZt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cmZRyI1mKennzw7RbVSguUPieto.jpg",
+    "genres": ["Drama", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/rosario-tijeras-2005-1080-p-dual-lat/Rosario%20Tijeras%202005%201080P-Dual-Lat.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_95",
+    "title": "Destino Final",
+    "shortDescription": "Un grupo de jóvenes intenta burlar a la muerte tras sobrevivir a un accidente de avión.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2g4Jz0Jr54aYCpFLWKYDo5VZvzN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jCl6t4o1haTDPqu39dLRy9CIYgq.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/destino-final_202407/Destino%20Final.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_96",
+    "title": "Destino Final 2",
+    "shortDescription": "La muerte persigue a los supervivientes de una masiva colisión en una autopista.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/w1dJluO5aKK7Puz7qNXoQeUh4Cb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tFPW1UxsGN9R9IGXYRJW79EjbST.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/destino-final_202407/Destino%20Final%202.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_97",
+    "title": "El Sorprendente Hombre Araña 2",
+    "shortDescription": "Spider-Man se enfrenta a Electro y descubre más sobre el pasado de su familia.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nrYZiikhPqHOYfsYEYzHim3hg6A.jpg",
+    "genres": ["Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/El%20Sorprendente%20Hombre%20Ara%C3%B1a%202%20La%20Amenaza%20De%20Electro.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_98",
+    "title": "Capitán América: Civil War",
+    "shortDescription": "Los Vengadores se dividen en dos bandos tras una decisión política sobre su control.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/uymMGErUAUXElLJE4jTUrDMT7wr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yfpA0hb18w9TR2XBm1P9zhkBsQ9.jpg",
+    "genres": ["Marvel", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202016%201%20Capit%C3%A1n%20Am%C3%A9rica%20Civil%20War.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_99",
+    "title": "Capitán América: Soldado del Invierno",
+    "shortDescription": "Steve Rogers se une a Black Widow para desenmascarar una conspiración dentro de S.H.I.E.L.D.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/9n7Tk6Sudr84JpdhmWq5oOydKDr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5QjCjcfEhW9c0l5PC3LmLhuJTSU.jpg",
+    "genres": ["Marvel", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202014%201%20Capit%C3%A1n%20Am%C3%A9rica%20Y%20El%20Soldado%20Del%20Invierno.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_100",
+    "title": "Spider-Man: No Way Home",
+    "shortDescription": "Peter Parker busca restaurar su identidad con magia, pero rompe las barreras del multiverso.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/5pVJ9SuuO72IgN6i9kMwQwnhGHG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7SvRCFDVwoZsHiXac5mr4eLbuNa.jpg",
+    "genres": ["Marvel", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202021%204%20Spider-Man%20Sin%20Camino%20A%20Casa.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_101",
+    "title": "Eternals",
+    "shortDescription": "Seres inmortales que han vivido en la Tierra por milenios se reúnen para protegerla.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/4DiJQ1mBp4ztoznZADIrPg69v46.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uFcVUmmHK6JWQuLFBH1xLpt2ZzX.jpg",
+    "genres": ["Marvel", "Sci-Fi"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202021%203%20Eternals.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_102",
+    "title": "Taxi Driver",
+    "shortDescription": "Un veterano solitario trabaja como taxista nocturno en una decadente Nueva York.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
+    "genres": ["Drama", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/taxi-driver-1976_202512/Taxi%20Driver%201976%201080p%2035mm%20Latino%201er%20Mex%20-%202do%20Mex%20-%204to%20Arg.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_103",
+    "title": "Terminator 2",
+    "shortDescription": "Un cyborg es enviado al pasado para proteger al futuro líder de la resistencia.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/x4C3DpirUR50kT0LRnSHJeViCIi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wVsnUx6BUDbutSsUaxQXXwp3Ctx.jpg",
+    "genres": ["Acción", "Sci-Fi"],
+    "content": { "videos": [{"url": "https://archive.org/download/terminator-2_202409/Terminator%202.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_104",
+    "title": "Cicatrices",
+    "shortDescription": "Un drama familiar que explora las consecuencias de la violencia doméstica.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/5Ng63oUTS61vxMeuHdsEQvXFcPy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kHQIjZqMI7PM0TMbnHWYiOkRqX3.jpg",
+    "genres": ["Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/2094-cicatrices-2005-1080p-lat-mx-v/2094-Cicatrices%20%282005%29%201080p%20Lat%20mx%20v.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_105",
+    "title": "2012",
+    "shortDescription": "Un escritor intenta salvar a su familia mientras el mundo sufre catástrofes naturales masivas.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/Ab0wEWfwWtfnRQE5l6wC0d0qT6O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tBhg0yoVleqib2hUukW1DoABxFV.jpg",
+    "genres": ["Acción", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/2012-dia-del-final/2012%20Dia%20del%20Final.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_106",
+    "title": "Tarzán",
+    "shortDescription": "Un hombre criado por gorilas debe elegir entre su familia animal y el mundo humano.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/231J09zVDE5kgZWYEXEw4tvDzLm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zB3KG1XQQWYXioM62cAYINl0JSS.jpg",
+    "genres": ["Animación", "Aventura"],
+    "content": { "videos": [{"url": "https://archive.org/download/gigi-tarzan-1999-latino-toky-video/%E3%80%8EGigi%E2%99%A1%E3%80%8F%E2%AA%BCTarz%C3%A1n%20%281999%29%20Latino%20-%20TokyVideo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_107",
+    "title": "Enredados",
+    "shortDescription": "Rapunzel huye de su torre con un ladrón encantador para ver las linternas flotantes.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9VZettx4ayLcELbCgwZV5nleryn.jpg",
+    "genres": ["Animación", "Familia"],
+    "content": { "videos": [{"url": "https://archive.org/download/peliculas_202102/ENREDADOS.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_108",
+    "title": "Coco",
+    "shortDescription": "Miguel viaja a la Tierra de los Muertos para descubrir el secreto de su familia.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/obfU8AADQT9nWuG0KYF8dvzeJiw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ak65OTvyi3hp6Od6FuYK2SaSzyS.jpg",
+    "genres": ["Animación", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/gigi-coco-2017-latino-toky-video/%E3%80%8EGigi%E2%99%A1%E3%80%8F%E2%AA%BCCoco%20%282017%29%20Latino%20-%20TokyVideo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_109",
+    "title": "Coraline",
+    "shortDescription": "Una niña atraviesa una puerta secreta y descubre un mundo paralelo engañoso.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/u8DRC5Rk6gMEoGnAo70cqn8iqbx.jpg",
+    "genres": ["Animación", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/coraline-y-la-puerta-secreta-2009-espanol-latino-c-nando-urhopelis-toky-video/Coraline%20y%20la%20Puerta%20secreta%20%282009%29%20Espa%C3%B1ol%20Latino%20_%20%C2%A9%20Nando%20-%20urhopelis%20-%20TokyVideo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_110",
+    "title": "Your Name",
+    "shortDescription": "Dos adolescentes intercambian cuerpos de forma inexplicable y buscan encontrarse.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/lnQgcyFgYLepIzbK87hr7QWuKER.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rjs5IfIv6Psl2YCSHKcluhTQGjJ.jpg",
+    "genres": ["Animación", "Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/kimi-no-na-wa-your-name-espanol-latino/Kimi%20No%20Na%20Wa%20%28Your%20Name%29%20Espa%C3%B1ol%20Latino.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_111",
+    "title": "Encanto",
+    "shortDescription": "Mirabel busca salvar la magia de su familia y su hogar en las montañas de Colombia.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o0VDSOtAiSV12ET7DYWoSdopiXi.jpg",
+    "genres": ["Animación", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/drew-encanto-toky-video/%E3%80%8E%C6%8A%CA%80%E1%B4%87%E1%B4%A1%E3%80%8FEncanto%20-%20TokyVideo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_112",
+    "title": "Matrix",
+    "shortDescription": "Un programador descubre que el mundo es una simulación controlada por máquinas.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wkzeNsJjQBYCzkbiI2jxWnlrwR6.jpg",
+    "genres": ["Sci-Fi", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/matrix-1999-espanol-latino-4x-3/Matrix%20%281999%29%20Espa%C3%B1ol%20Latino%204x3.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_113",
+    "title": "La Sustancia",
+    "shortDescription": "Una mujer usa una droga experimental para crear una versión más joven de sí misma.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A5Kac9Y3DvS7X7GUNpohZJqdV1t.jpg",
+    "genres": ["Terror", "Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/la-sustancia_202512/La%20sustancia.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_114",
+    "title": "La Purga",
+    "shortDescription": "En un futuro cercano, el crimen es legal durante doce horas una vez al año.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tPQwYypnIA9b554OgeTjiFyLdyq.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_115",
+    "title": "La Familia del Futuro",
+    "shortDescription": "Un joven inventor viaja al futuro para conocer a su familia y salvar sus inventos.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/T1TRc6OfGopoEA1o7ZOgBfhUYz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2PDMTIlfFRp6Ff1fUHvIS3SDO0.jpg",
+    "genres": ["Animación", "Sci-Fi"],
+    "content": { "videos": [{"url": "https://archive.org/download/la-familia-del-futuro_202405/la%20familia%20del%20futuro.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_116",
+    "title": "Five Nights at Freddy's",
+    "shortDescription": "Un guardia nocturno debe sobrevivir al ataque de animatrónicos asesinos en una pizzería.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aMuyRU1sHEDESrckfQqK3YLlSnl.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/fnaf-1080p-hd-espanol-latino/FNAF_1080p_HD%20espa%C3%B1ol%20latino.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_117",
+    "title": "El Gigante de Hierro",
+    "shortDescription": "Un niño se hace amigo de un robot gigante que cae del espacio.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/utnjVxciJRFFTGjbMw4xSUgYRRU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dtc5BZqT3wXa5qd4vTWT5XkrMoh.jpg",
+    "genres": ["Animación", "Sci-Fi"],
+    "content": { "videos": [{"url": "https://archive.org/download/the-iron-giant/The%20Iron%20Giant.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_118",
+    "title": "La Vendedora de Rosas",
+    "shortDescription": "Relato crudo de la vida de niños de la calle en Medellín durante la Navidad.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/vuWS7xErprFz8K2CyvdjejIUNt9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zN2ORpLcyKpBFDF59pvTPwdVOfk.jpg",
+    "genres": ["Drama"],
+    "content": { "videos": [{"url": "https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/%5B1080p%5D%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_119",
+    "title": "Silent Hill",
+    "shortDescription": "Una mujer busca a su hija en un pueblo envuelto en niebla y horrores sobrenaturales.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/xgi682eztAqQOv96n1dw5pYaQVk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/16x1Mlah4O4Ne3q9um5DLgMLccV.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/Terrortp/Ver%20Silent%20Hill%20%282006%29%20480%20%40JuAnChO1304.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_120",
+    "title": "Scream",
+    "shortDescription": "Un asesino enmascarado utiliza reglas del cine de terror para acechar a adolescentes.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3SzOdZMnvw4rVzeWCZ7AKEjaZsu.jpg",
+    "genres": ["Terror", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/scream-1996_202409/Scream%20%20%281996%29.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_121",
+    "title": "Star Wars: El Regreso del Jedi",
+    "shortDescription": "Luke Skywalker intenta rescatar a su padre mientras la Alianza Rebelde ataca la Estrella de la Muerte.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7dRclUQeG8kxadrXn7BcwnxZvh5.jpg",
+    "genres": ["Sci-Fi", "Acción"],
+    "content": { "videos": [{"url": "https://archive.org/download/star-wars-el-regreso-del-jedi-espanol/star-wars-el-regreso-del-jedi-espa%C3%B1ol.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_122",
+    "title": "Cómo Entrenar a tu Dragón",
+    "shortDescription": "Un joven vikingo se hace amigo de un dragón herido, cambiando el destino de su aldea.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lPpIVhOJZ8sVePcfKFyUnrqgbOP.jpg",
+    "genres": ["Animación"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/C%C3%B3mo%20Entrenar%20a%20tu%20Drag%C3%B3n%20%5BLAT%5D%201080p%20%40cinemaximo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_123",
+    "title": "Cómo Entrenar a tu Dragón 2",
+    "shortDescription": "Hipo y Chimuelo descubren una cueva llena de dragones y una misteriosa jinete.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/hUFRL4jjfr3Z2LXwehuh4W4bNAd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aIT0b8th8p6tm8I429NiVw737oG.jpg",
+    "genres": ["Animación"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/C%C3%B3mo%20Entrenar%20a%20tu%20Drag%C3%B3n%202%20%5BLAT%5D%201080p%20%40cinemaximo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_124",
+    "title": "Cómo Entrenar a tu Dragón 3",
+    "shortDescription": "Hipo busca un mundo oculto de dragones mientras una nueva amenaza acecha su hogar.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/rBQ9RVg6Zpo5aasWWOWmjET5Hah.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rOE5yAP1uRMuZWK6geLyqVA7qRH.jpg",
+    "genres": ["Animación"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/C%C3%B3mo%20Entrenar%20a%20tu%20Drag%C3%B3n%203%20%5BLAT%5D%201080p%20%40cinemaximo.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_125",
+    "title": "Hércules",
+    "shortDescription": "El hijo de Zeus debe demostrar que es un héroe verdadero para recuperar su inmortalidad.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iwjP7ImLzXZjKHnCUChJThEtNJG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lWW4T26UYcDHyPyWE2hICx7EXpV.jpg",
+    "genres": ["Animación"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Hercules.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_126",
+    "title": "Las Crónicas de Narnia: El Príncipe Caspian",
+    "shortDescription": "Los hermanos Pevensie regresan a Narnia para ayudar al legítimo heredero al trono.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ccXSnN0bMBYc7Pno5chkpy7UYcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dCscTUjSmdx1zBUFp46tSg3eOHs.jpg",
+    "genres": ["Familia", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Las%20Cr%C3%B3nicas%20de%20Narnia%202%20El%20Pr%C3%ADncipe%20Caspian%20%282008%29.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_127",
+    "title": "Las Crónicas de Narnia: El Viajero del Alba",
+    "shortDescription": "Lucy y Edmund viajan por mar hacia el fin del mundo en una misión mágica.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/i1VNVBUkai81eRQTS16zXllnN52.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6YsaEAMIDwuPuHTiTiRpq6VpQct.jpg",
+    "genres": ["Familia", "Fantasía"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Las_Cr%C3%B3nicas_de_Narnia_3_La_Traves%C3%ADa_del_Viajero_del_Alba_2010.mp4", "quality": "HD", "videoType": "MP4"}] }
+  },
+  {
+    "id": "mov_128",
+    "title": "Grandes Héroes",
+    "shortDescription": "Un genio de la robótica y su robot inflable forman un equipo de héroes tecnológicos.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/h8SmOMgaLpVc3n5X5SpHmEYKDa2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uhEDTDCn7TlX75EPGE0WRDyj1d3.jpg",
+    "genres": ["Animación"],
+    "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Grandes%20h%C3%A9roes%20%282014%29%20Chris%20Williams%2C%20Don%20Hall%20%40cesser16.mp4", "quality": "HD", "videoType": "MP4"}] }
+  }
   ],
   "series": [
     {
@@ -621,6 +1341,7 @@
     }
   ]
 }
+
 
 
 
