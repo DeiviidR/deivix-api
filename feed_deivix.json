@@ -1429,7 +1429,7 @@
       "id": "ser_09",
       "title": "Your Lie in April",
       "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
-      "shortDescription": "Un joven pianista pierde la capacidad de oír el sonido del piano tras la muerte de su madre.",
+      "shortDescription": "Un prodigio del piano que perdió su música recupera el color de su vida al conocer a una violinista de espíritu libre y secretos profundos.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
       "genres": ["Anime"],
       "episodes": [
@@ -1461,7 +1461,7 @@
       "id": "ser_10",
       "title": "The Boys",
       "thumbnail": "https://image.tmdb.org/t/p/w500/cSAN6ofLRwRiuwOHYD81p4k6Yks.jpg",
-      "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
+      "shortDescription": "Un grupo de vigilantes se embarca en una misión heroica para exponer la verdad sobre 'Los Siete' y Vought, la corporación que encubre sus sucios secretos.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/czffzEgaBko4mXW84B1J1EnQBzo.jpg",
       "genres": ["Originales"],
       "episodes": [
@@ -1481,7 +1481,7 @@
       "id": "ser_11",
       "title": "Élite",
       "thumbnail": "https://image.tmdb.org/t/p/w500/biclHaC5zYevbjwIfwdyHxJ5dW.jpg",
-      "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
+      "shortDescription": "Cuando tres jóvenes de clase obrera ingresan a la escuela más exclusiva de España, el choque entre ellos y los estudiantes ricos conduce al asesinato.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1q9C2YD9rJSdNiIyAfrlCiIphlO.jpg",
       "genres": ["Originales"],
       "episodes": [
@@ -1497,6 +1497,7 @@
     }
   ]
 }
+
 
 
 
