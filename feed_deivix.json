@@ -107,7 +107,7 @@
       "shortDescription": "Wolverine se recupera de sus heridas cuando se cruza con el bocazas.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/sulIzxysNCxQY7DVQ5WlH4gzvp1.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/bpCs9rHiNR2J4hIncrOCSuD4icO.jpg" ,
-      "genres": ["Acción", "Comedia"],
+      "genres": ["Marvel", "Comedia"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-de-marvel-comics/UMC%202024%20Deadpool%20%26%20Wolverine.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -197,7 +197,7 @@
       "shortDescription": "Un misterioso enmascarado lucha contra un gobierno totalitario.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/auSKKOjVyR8RGd5BhfCu2vzGMCO.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/cKMZqcYKMvuoESDa8O5NMojdmfL.jpg" ,
-      "genres": ["Acción", "Suspenso"],
+      "genres": ["DC", "Suspenso"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/V%20For%20Vendetta.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -206,7 +206,7 @@
       "shortDescription": "Batman se enfrenta al Joker, una mente criminal que quiere ver a Gotham arder.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/6lHRQMNz0L4tRLboJdkp27FbJGJ.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg" ,
-      "genres": ["Acción", "Suspenso"],
+      "genres": ["DC", "Suspenso"],
       "content": { "videos": [{"url": "https://archive.org/download/el.-caballero.-de.-la.-noche.-audio-latino.-digitalizado/El.Caballero.De.La.Noche.AudioLatino.%28Digitalizado%29.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -224,7 +224,7 @@
       "shortDescription": "Un exorcista ayuda a una policía a probar que la muerte de su hermana no fue suicidio.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/sfzfZtEhRkAUWRjxRlzhcV6uas6.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/kC27JiHoF1UM4w6j5OR0aA3h3Lu.jpg" ,
-      "genres": ["Acción", "Terror"],
+      "genres": ["DC", "Terror"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Constantine.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -251,7 +251,7 @@
       "shortDescription": "Un joven líder de una banda criminal es sometido a un experimento conductual.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/eORDaf1o7rMYTNU8AefodYd6SW2.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/keblhZFIZYiWflmURWNHEuS2jqL.jpg" ,
-      "genres": ["Drama", "Sci-Fi"],
+      "genres": ["Clásicos", "Sci-Fi"],
       "content": { "videos": [{"url": "https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -386,7 +386,7 @@
       "shortDescription": "Un niño pobre gana un billete dorado para visitar la fábrica de Willy Wonka.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/xwSvBAEfYGwnyy5p9dgxyCQIzuv.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/3ftZJhZmVdVHJfrRaqheOAaEBXI.jpg" ,
-      "genres": ["Familia", "Fantasía"],
+      "genres": ["Fantasía"],
       "content": { "videos": [{"url": "https://archive.org/download/peliculas-2001-2010/Charlie%20Y%20La%20F%C3%A1brica%20De%20Chocolate.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -404,7 +404,7 @@
       "shortDescription": "Cuatro hermanos entran a un armario mágico y descubren el mundo de Narnia.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/dbI57g2XoUv60uJWfXpEGb4ausa.jpg" ,
-      "genres": ["Familia", "Fantasia"],
+      "genres": ["Fantasía", "Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/1-ropero/1%20Ropero.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
     {
@@ -458,7 +458,7 @@
     "shortDescription": "Una joven soñadora se ofrece a vivir en un castillo con una bestia para salvar a su padre.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/2q38CCkPvhm8DVHazY9QLQtHQoO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/3oqPgbFReco3GR6LweLVgoR1GPS.jpg",
-    "genres": ["Familia"],
+    "genres": ["Fantasía"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/La%20Bella%20Y%20La%20Bestia.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -467,7 +467,7 @@
     "shortDescription": "En un mundo donde humanos y criaturas místicas conviven, dos policías encuentran un objeto de poder.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/4xWEhLPlP9yg3DJbkKaBayBN98V.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/xgIxmqYPWIQUFWPcpVsWbKDHzmQ.jpg",
-    "genres": ["Acción", "Fantasía"],
+    "genres": ["Fantasía"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-2011-2020/Bright.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -697,12 +697,12 @@
   },
   {
     "id": "mov_78",
-    "title": "El Remanente",
-    "shortDescription": "Un grupo de amigos lucha por sobrevivir tras una serie de eventos apocalípticos.",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/gwnBj65qsQ9t5rRmcaGLZBXk2U6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/lcR8o5Fqm5WfqWkldyV2ZPSqdp8.jpg",
-    "genres": ["Drama", "Suspenso"],
-    "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/El%20Remanente.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+    "title": "El Transportador 2",
+    "shortDescription": "El ex-mercenario Frank Martin lleva una vida totalmente diferente en Miami, pero no le quedará más remedio que volver a la acción cuando una familia cercana es secuestrada.",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/xjJhcBWtb17hDrJTxsWIsu5wOow.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iFDHojlTMPoGqfDGHLoAwoGCRep.jpg",
+    "genres": ["Acción", "Suspenso"],
+    "content": { "videos": [{"url": "https://archive.org/download/transporter-2-statham-un-cut-brabrams-816p-ac-3-640kb-2005/Transporter%202%20%28Statham%29%20%5BUnCut%5D%20%5BBRAbrams%20816p%5D%20%5BAC3%20640kb%5D%20%5B2005%5D.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
     "id": "mov_79",
@@ -710,7 +710,7 @@
     "shortDescription": "Relato de la vida de Jesús desde su nacimiento hasta su resurrección.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/pnORCAOUW0JKR84ueMap8GiBAoA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/x3kmbbzUZVJJTQTTPQL9K9b84Bw.jpg",
-    "genres": ["Drama", "Histórico"],
+    "genres": ["Religiosa", "Histórico"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/Hijo%20de%20Dios.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -719,7 +719,7 @@
     "shortDescription": "La historia bíblica de José y su ascenso al poder en Egipto.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/vmqVZ58kQXj9lEWOPES7YeO9dOO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/nlDkxq3BTv1VdLxXl3XH9yEczxP.jpg",
-    "genres": ["Animación", "Drama"],
+    "genres": ["Religiosa", "Drama"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/La%20Historia%20de%20Jose.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -728,7 +728,7 @@
     "shortDescription": "Las últimas doce horas en la vida de Jesús de Nazaret.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/qPSyfz3yzTHXh1s8KRNy5YMNQJL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/7r36sdyShTCPzCTwm2wocffknNy.jpg",
-    "genres": ["Drama"],
+    "genres": ["Religiosa"],
     "content": { "videos": [{"url": "https://archive.org/download/la-pasion-de-cristo-pelicula/Pel%C3%ADcula%20Completa%20Espa%C3%B1ol%20Latino%20La%20Pasi%C3%B3n%20De%20Cristo.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -737,7 +737,7 @@
     "shortDescription": "Moisés lidera al pueblo hebreo fuera de Egipto hacia la Tierra Prometida.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/ym3fLtradlKDhBK0WaeOjeTtrrB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/3HyVZmVKLLQQr40a6iJAfAA5FLP.jpg",
-    "genres": ["Drama"],
+    "genres": ["Religiosa"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/Los%20Diez%20Mandamientos.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -746,7 +746,7 @@
     "shortDescription": "Dos hermanos criados como príncipes se enfrentan por el destino de un pueblo.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/dyHNyqc9UBhfLZpFM8GTQ9z8AvV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/565DYYXgdRYMiETLi2EDx4p7s92.jpg",
-    "genres": ["Animación", "Drama"],
+    "genres": ["Religiosa", "Animación"],
     "content": { "videos": [{"url": "https://archive.org/download/peliculas-cristianas/Moises%20El%20Principe%20de%20Egipto.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -764,7 +764,7 @@
     "shortDescription": "Batman y Superman se unen cuando Lex Luthor los declara enemigos del estado.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/qYckc7dwtuIUlFEx1lallXFfYka.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/rGgqwztE7v3jX3e7zWAIRy74vlH.jpg",
-    "genres": ["Animación", "Acción"],
+    "genres": ["DC", "Acción"],
     "content": { "videos": [{"url": "https://archive.org/download/jurassic.world.fallen.kingdom.-2018.1080p-dual-lat-cinecalidad.to_202105/Superman~Batman%20-%20Enemigos%20p%C3%BAblicos.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
  {
@@ -782,7 +782,7 @@
     "shortDescription": "Inquilinos de un viejo edificio en Bogotá luchan por no ser desalojados de forma creativa.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/7Slakz6z2I3VJ684FuDP1ZLOQbi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/kd8ahhxWK96M25dhStyZ7g285Eu.jpg",
-    "genres": ["Drama", "Comedia"],
+    "genres": ["Clásicos", "Comedia"],
     "content": { "videos": [{"url": "https://archive.org/download/la-estrategia-del-caracol-1993-hd-espanol-latino-f/La_estrategia_del_caracol_%5B1993_HD%5D_Espa%C3%B1ol_latino_f_.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -809,7 +809,7 @@
     "shortDescription": "Batman recluta a un equipo de metahumanos para proteger al mundo de Steppenwolf.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/wFl2rumfzQJzTf50WqmK7zDg6Aa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/q6F31bIyIXEg3LdAEZyunyO918W.jpg",
-    "genres": ["Acción", "Fantasía"],
+    "genres": ["DC", "Fantasía"],
     "content": { "videos": [{"url": "https://archive.org/download/la-liga-de-la-justicia-zack-snyders-cut/Ma%C3%B1ana%20Pasado/La%20Liga%20De%20La%20Justicia%20-%20Zack%20Snyders%20Cut.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -818,7 +818,7 @@
     "shortDescription": "Héroes de universos paralelos se unen para enfrentar a una versión malvada de sí mismos.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/lNAlgY45SX7I2oTZksnHcqHPF6j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/tWEcrdHbQLJUuetCQupgCJaTRQ9.jpg",
-    "genres": ["Animación", "Acción"],
+    "genres": ["DC", "Acción"],
     "content": { "videos": [{"url": "https://archive.org/download/ligadelajusticiacrisisenlasdostierras/SAbado/Liga%20de%20la%20Justicia%20Crisis%20en%20las%20dos%20Tierras.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -845,7 +845,7 @@
     "shortDescription": "La vida de una sicaria en el Medellín de los años 80 marcada por la violencia y el amor.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/sxaKqNtcFi9qkWraecFfg50PCZt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/cmZRyI1mKennzw7RbVSguUPieto.jpg",
-    "genres": ["Drama", "Acción"],
+    "genres": ["Clásicos", "Acción"],
     "content": { "videos": [{"url": "https://archive.org/download/rosario-tijeras-2005-1080-p-dual-lat/Rosario%20Tijeras%202005%201080P-Dual-Lat.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -917,7 +917,7 @@
     "shortDescription": "Un veterano solitario trabaja como taxista nocturno en una decadente Nueva York.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
-    "genres": ["Drama", "Suspenso"],
+    "genres": ["Clásicos", "Suspenso"],
     "content": { "videos": [{"url": "https://archive.org/download/taxi-driver-1976_202512/Taxi%20Driver%201976%201080p%2035mm%20Latino%201er%20Mex%20-%202do%20Mex%20-%204to%20Arg.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -926,7 +926,7 @@
     "shortDescription": "Un cyborg es enviado al pasado para proteger al futuro líder de la resistencia.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/x4C3DpirUR50kT0LRnSHJeViCIi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/wVsnUx6BUDbutSsUaxQXXwp3Ctx.jpg",
-    "genres": ["Acción", "Sci-Fi"],
+    "genres": ["Clásicos", "Acción"],
     "content": { "videos": [{"url": "https://archive.org/download/terminator-2_202409/Terminator%202.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -1007,7 +1007,7 @@
     "shortDescription": "Un programador descubre que el mundo es una simulación controlada por máquinas.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/wkzeNsJjQBYCzkbiI2jxWnlrwR6.jpg",
-    "genres": ["Sci-Fi", "Acción"],
+    "genres": ["Clásicos", "Sci-Fi"],
     "content": { "videos": [{"url": "https://archive.org/download/matrix-1999-espanol-latino-4x-3/Matrix%20%281999%29%20Espa%C3%B1ol%20Latino%204x3.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -1061,7 +1061,7 @@
     "shortDescription": "Relato crudo de la vida de niños de la calle en Medellín durante la Navidad.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/vuWS7xErprFz8K2CyvdjejIUNt9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zN2ORpLcyKpBFDF59pvTPwdVOfk.jpg",
-    "genres": ["Drama"],
+    "genres": ["Clásicos"],
     "content": { "videos": [{"url": "https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/%5B1080p%5D%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -1133,7 +1133,7 @@
     "shortDescription": "Los hermanos Pevensie regresan a Narnia para ayudar al legítimo heredero al trono.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/ccXSnN0bMBYc7Pno5chkpy7UYcq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/dCscTUjSmdx1zBUFp46tSg3eOHs.jpg",
-    "genres": ["Familia", "Fantasía"],
+    "genres": ["Fantasía", "Familia"],
     "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Las%20Cr%C3%B3nicas%20de%20Narnia%202%20El%20Pr%C3%ADncipe%20Caspian%20%282008%29.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -1142,7 +1142,7 @@
     "shortDescription": "Lucy y Edmund viajan por mar hacia el fin del mundo en una misión mágica.",
     "thumbnail": "https://image.tmdb.org/t/p/w500/i1VNVBUkai81eRQTS16zXllnN52.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/6YsaEAMIDwuPuHTiTiRpq6VpQct.jpg",
-    "genres": ["Familia", "Fantasía"],
+    "genres": ["Fantasía", "Familia"],
     "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Las_Cr%C3%B3nicas_de_Narnia_3_La_Traves%C3%ADa_del_Viajero_del_Alba_2010.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
   {
@@ -1169,7 +1169,7 @@
       "shortDescription": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido.",
       "thumbnail": "https://image.tmdb.org/t/p/w500/vDCeIYfgO3HUZBYw8Qv0OrqN7vD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/niuagPaQqntfGduCInm0DlZbtE1.jpg",
-      "genres": ["Sci-Fi", "Familia"],
+      "genres": ["Clásicos", "Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/1985-volver-al-futuro-en-espanol-latino/%281985%29%20Volver%20al%20Futuro%20%28Robert%20Zemeckis%29.mp4", "quality": "HD", "videoType": "MP4"}] }
     },
   {
@@ -1497,6 +1497,7 @@
     }
   ]
 }
+
 
 
 
