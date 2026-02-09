@@ -767,15 +767,15 @@
     "genres": ["Animación", "Acción"],
     "content": { "videos": [{"url": "https://archive.org/download/jurassic.world.fallen.kingdom.-2018.1080p-dual-lat-cinecalidad.to_202105/Superman~Batman%20-%20Enemigos%20p%C3%BAblicos.mp4", "quality": "HD", "videoType": "MP4"}] }
   },
-  {
-    "id": "mov_86",
-    "title": "Colombia Magia Salvaje",
-    "shortDescription": "Un recorrido visual por la asombrosa biodiversidad y paisajes de Colombia.",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/2kjKdxpmvtFMmIFsNzjDMlNCWTc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/py4jc8WlGsxr9A1b2TuMTbQmvdA.jpg",
-    "genres": ["Drama"],
-    "content": { "videos": [{"url": "https://archive.org/download/colombia-magia-salvaje-1080-p-hd/Colombia%20Magia%20Salvaje%281080P_HD%29.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
-  },
+ {
+   "id": "mov_86",
+   "title": "Colombia Magia Salvaje",
+   "shortDescription": "Un recorrido visual por la asombrosa biodiversidad y paisajes de Colombia.",
+   "thumbnail": "https://image.tmdb.org/t/p/w500/2kjKdxpmvtFMmIFsNzjDMlNCWTc.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/py4jc8WlGsxr9A1b2TuMTbQmvdA.jpg",
+   "genres": ["Drama", "Documental"],
+   "content": { "videos": [{"url": "https://archive.org/download/colombia-magia-salvaje-1080-p-hd/Colombia%20Magia%20Salvaje%281080P_HD%29.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+   },
   {
     "id": "mov_87",
     "title": "La Estrategia del Caracol",
@@ -1177,7 +1177,23 @@
         { "title": "Capítulo 11", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E11.mp4" },
         { "title": "Capítulo 12", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E12.mp4" },
         { "title": "Capítulo 13", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E13.mp4" },
-        { "title": "Capítulo 14", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E14.mp4" }
+        { "title": "Capítulo 14", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E14.mp4" },
+        { "title": "Capítulo 15", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E15.mp4" },
+        { "title": "Capítulo 16", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E16.mp4.mp4" },
+        { "title": "Capítulo 17", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E17.mp4" },
+        { "title": "Capítulo 18", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E18.mp4" },
+        { "title": "Capítulo 19", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E19.mp4" },
+        { "title": "Capítulo 20", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E20.mp4" },
+        { "title": "Capítulo 21", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E21.mp4" },
+        { "title": "Capítulo 22", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E22.mp4" },
+        { "title": "Capítulo 23", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E23.mp4" },
+        { "title": "Capítulo 24", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E24.mp4" },
+        { "title": "Capítulo 25", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E25.mp4" },
+        { "title": "Capítulo 26", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E26.mp4" },
+        { "title": "Capítulo 27", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E27.mp4" },
+        { "title": "Capítulo 28", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E28.mp4" },
+        { "title": "Capítulo 29", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E29.mp4" },
+        { "title": "Capítulo 30", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E30.mp4" }
       ]
     },
     {
@@ -1325,7 +1341,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
       "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
       "backdrop" : "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
-      "genres" : ["Novela", "Comemdia"] ,
+      "genres" : ["Novela", "Comedia"] ,
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E02.mp4" },
@@ -1341,38 +1357,35 @@
     },
       {
       "id": "ser_08",
-      "title": "Malcolm el de en medio",
-      "thumbnail": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
-      "shortDescription": "Un niño genio intenta sobrevivir en su familia disfuncional.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/5Nrh0PtHuU41f6F8m5WbGm2iEQa.jpg",
-      "genres" : ["Comedia"] ,
+      "title": "Demon Slayer",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+      "shortDescription": "Un niño se vuelve un cazador de demonios e intenta curar a su hermana.",
+      "backdrop" : "https://image.tmdb.org/t/p/w1280/mUpc1eEJxIs4oDaNgKvErCV1EZO.jpg",
+      "genres" : ["Anime"] ,
       "episodes": [
-        { "title": "Capítulo 1", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E01.mp4" },
-        { "title": "Capítulo 2", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E02.mp4" },
-        { "title": "Capítulo 3", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E03.mp4" },
-        { "title": "Capítulo 4", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E04.mp4" },
-        { "title": "Capítulo 5", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E05.mp4" },
-        { "title": "Capítulo 6", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E06.mp4" },
-        { "title": "Capítulo 7", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E07.mp4" },
-        { "title": "Capítulo 8", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E08.mp4" },
-        { "title": "Capítulo 9", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E09.mp4" },
-        { "title": "Capítulo 10", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E10.mp4" },
-        { "title": "Capítulo 11", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E11.mp4" },
-        { "title": "Capítulo 12", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E12.mp4" },
-        { "title": "Capítulo 13", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E13.mp4" },
-        { "title": "Capítulo 14", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E14.mp4" },
-        { "title": "Capítulo 15", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E15.mp4" },
-        { "title": "Capítulo 16", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E16.mp4" }
+        { "title": "Capítulo 1", "url": "https://archive.org/download/2_20241007_20241007_1253/1.mp4" },
+        { "title": "Capítulo 2", "url": "https://archive.org/download/2_20241007_20241007_1253/2.mp4" },
+        { "title": "Capítulo 3", "url": "https://archive.org/download/2_20241007_20241007_1253/3.mp4" },
+        { "title": "Capítulo 4", "url": "https://archive.org/download/2_20241007_20241007_1253/4.mp4" },
+        { "title": "Capítulo 5", "url": "https://archive.org/download/2_20241007_20241007_1253/5.mp4" },
+        { "title": "Capítulo 6", "url": "https://archive.org/download/9_20241007_202410/6.mp4" },
+        { "title": "Capítulo 7", "url": "https://archive.org/download/9_20241007_202410/7.mp4" },
+        { "title": "Capítulo 8", "url": "https://archive.org/download/9_20241007_202410/8.mp4" },
+        { "title": "Capítulo 10", "url": "https://archive.org/download/15_20241006_20241006/10.mp4" },
+        { "title": "Capítulo 11", "url": "https://archive.org/download/15_20241006_20241006/11.mp4" },
+        { "title": "Capítulo 12", "url": "https://archive.org/download/15_20241006_20241006/12.mp4" },
+        { "title": "Capítulo 13", "url": "https://archive.org/download/15_20241006_20241006/13.mp4" },
+        { "title": "Capítulo 14", "url": "https://archive.org/download/15_20241006_20241006/14.mp4" },
+        { "title": "Capítulo 15", "url": "https://archive.org/download/15_20241006_20241006/15.mp4" },
+        { "title": "Capítulo 16", "url": "https://archive.org/download/15_20241006_20241006/16.mp4" },
+        { "title": "Capítulo 17", "url": "https://archive.org/download/15_20241006_20241006/17.mp4" },
+        { "title": "Capítulo 18", "url": "https://archive.org/download/15_20241006_20241006/18.mp4" },
+        { "title": "Capítulo 19", "url": "https://archive.org/download/15_20241006_20241006/19.mp4" },
+        { "title": "Capítulo 20", "url": "https://archive.org/download/15_20241006_20241006/20.mp4" },
+        { "title": "Capítulo 21", "url": "https://archive.org/download/15_20241006_20241006/21.mp4" },
+        { "title": "Capítulo 22", "url": "https://archive.org/download/15_20241006_20241006/22.mp4" },
+        { "title": "Capítulo 23", "url": "https://archive.org/download/15_20241006_20241006/23.mp4" }
       ]
     }
   ]
 }
-
-
-
-
-
-
-
-
-
