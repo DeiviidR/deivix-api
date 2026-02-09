@@ -1182,14 +1182,14 @@
       "content": { "videos": [{"url": "https://archive.org/download/2006-tokio-drift/2006_Tokio_Drift.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
     }
   ],
-  "series": [
+ "series": [
     {
       "id": "ser_01",
       "title": "Yo soy Betty, la fea",
       "thumbnail": "https://image.tmdb.org/t/p/w500/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
       "shortDescription": "La historia de Beatriz Pinzón Solano, una mujer brillante pero poco atractiva.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/ftiQHOrAGTGXVsJ1pcAVC5Dau78.jpg",
-      "genres" : ["Novela", "Comedia"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ftiQHOrAGTGXVsJ1pcAVC5Dau78.jpg",
+      "genres": ["Novela", "Comedia"],
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/yo-soy-betty-la-fea_202502/Yo%20soy%20Betty%2C%20la%20fea%20-%20Episodio%20S01E02.mp4" },
@@ -1228,8 +1228,8 @@
       "title": "Cosmos: Una odisea en el espacio",
       "thumbnail": "https://image.tmdb.org/t/p/w500/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",
       "shortDescription": "Un viaje fascinante a través del universo y la ciencia.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/2Nu92BI6BjqsoTOzQG3BonDCi0g.jpg",
-      "genres" : ["Documental", "Sci-Fi"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2Nu92BI6BjqsoTOzQG3BonDCi0g.jpg",
+      "genres": ["Documental", "Sci-Fi"],
       "episodes": [
         { "title": "Cap 1: De Pie en la Vía Láctea", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%201-%20De%20Pie%20en%20la%20V%C3%ADa%20L%C3%A1ctea.%20%5BLatino%5D.mp4" },
         { "title": "Cap 2: Evolución molécula a molécula", "url": "https://archive.org/download/cosmos.-una-odisea-en-el-espacio-tiempo.-1-de-pie-en-la-via-lactea.-latino/Cosmos.%20Una%20Odisea%20en%20el%20Espacio-Tiempo.%202-%20Evoluci%C3%B3n%20mol%C3%A9cula%20a%20mol%C3%A9cula%20%5BLatino%5D.mp4" },
@@ -1251,8 +1251,8 @@
       "title": "Dino Rey",
       "thumbnail": "https://image.tmdb.org/t/p/w500/oQfcMJu1gvbmp50jftvRnc0ijgP.jpg",
       "shortDescription": "El Equipo D viaja por el mundo para salvar a los dinosaurios.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/klYsm5j7vqtuZzsNQfv2raI7cYX.jpg" ,
-      "genres" : ["Anime"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/klYsm5j7vqtuZzsNQfv2raI7cYX.jpg",
+      "genres": ["Anime"],
       "episodes": [
         { "title": "T1 - Cap 1", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764606684735.mp4" },
         { "title": "T1 - Cap 2", "url": "https://archive.org/download/ssstik.io_1764606684735/ssstik.io_1764606768117.mp4" },
@@ -1286,8 +1286,8 @@
       "title": "Boku no Hero Academia",
       "thumbnail": "https://image.tmdb.org/t/p/w500/sSELYoag7grJVTnEFWfTvWXCjGT.jpg",
       "shortDescription": "Izuku Midoriya sueña con ser un héroe a pesar de no tener poderes.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/9yqoUvoPIXYtyflVEwmSuUdrQip.jpg",
-      "genres" : ["Anime"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9yqoUvoPIXYtyflVEwmSuUdrQip.jpg",
+      "genres": ["Anime"],
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/1_20221125_20221125_1451/1.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/1_20221125_20221125_1451/2.mp4" },
@@ -1306,8 +1306,8 @@
       "title": "Stranger Things",
       "thumbnail": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "shortDescription": "Un grupo de niños descubre secretos sobrenaturales en Hawkins.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
-      "genres" : ["Originales", "Acción"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
+      "genres": ["Originales", "Acción"],
       "episodes": [
         { "title": "T1 - Cap 1", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x01.mp4" },
         { "title": "T1 - Cap 2", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x02.mp4" },
@@ -1341,8 +1341,8 @@
       "title": "Malcolm el de en medio",
       "thumbnail": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
       "shortDescription": "Un niño genio intenta sobrevivir en su familia disfuncional.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/5Nrh0PtHuU41f6F8m5WbGm2iEQa.jpg",
-      "genres" : ["Comedia"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Nrh0PtHuU41f6F8m5WbGm2iEQa.jpg",
+      "genres": ["Comedia"],
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E02.mp4" },
@@ -1367,8 +1367,8 @@
       "title": "El Chavo del Ocho",
       "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
       "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
-      "genres" : ["Novela", "Comedia"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
+      "genres": ["Novela", "Comedia"],
       "episodes": [
         { "title": "Capítulo 1", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E01.mp4" },
         { "title": "Capítulo 2", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/001.El%20Chavo%20T1E01-06/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E02.mp4" },
@@ -1382,40 +1382,122 @@
         { "title": "Capítulo 10", "url": "https://archive.org/download/el-chavo-del-ocho-1973-s-01-e-14/El%20Chavo/Temporada%201/002.El%20Chavo%20T1E07-12/El%20Chavo%20del%20Ocho%20%281973%29%20-%20S01E10.mp4" }
       ]
     },
-      {
+    {
       "id": "ser_08",
       "title": "Demon Slayer",
       "thumbnail": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
       "shortDescription": "Un niño se vuelve un cazador de demonios e intenta curar a su hermana.",
-      "backdrop" : "https://image.tmdb.org/t/p/w1280/mUpc1eEJxIs4oDaNgKvErCV1EZO.jpg",
-      "genres" : ["Anime"] ,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mUpc1eEJxIs4oDaNgKvErCV1EZO.jpg",
+      "genres": ["Anime"],
       "episodes": [
-        { "title": "Capítulo 1", "url": "https://archive.org/download/2_20241007_20241007_1253/1.mp4" },
-        { "title": "Capítulo 2", "url": "https://archive.org/download/2_20241007_20241007_1253/2.mp4" },
-        { "title": "Capítulo 3", "url": "https://archive.org/download/2_20241007_20241007_1253/3.mp4" },
-        { "title": "Capítulo 4", "url": "https://archive.org/download/2_20241007_20241007_1253/4.mp4" },
-        { "title": "Capítulo 5", "url": "https://archive.org/download/2_20241007_20241007_1253/5.mp4" },
-        { "title": "Capítulo 6", "url": "https://archive.org/download/9_20241007_202410/6.mp4" },
-        { "title": "Capítulo 7", "url": "https://archive.org/download/9_20241007_202410/7.mp4" },
-        { "title": "Capítulo 8", "url": "https://archive.org/download/9_20241007_202410/8.mp4" },
-        { "title": "Capítulo 10", "url": "https://archive.org/download/15_20241006_20241006/10.mp4" },
-        { "title": "Capítulo 11", "url": "https://archive.org/download/15_20241006_20241006/11.mp4" },
-        { "title": "Capítulo 12", "url": "https://archive.org/download/15_20241006_20241006/12.mp4" },
-        { "title": "Capítulo 13", "url": "https://archive.org/download/15_20241006_20241006/13.mp4" },
-        { "title": "Capítulo 14", "url": "https://archive.org/download/15_20241006_20241006/14.mp4" },
-        { "title": "Capítulo 15", "url": "https://archive.org/download/15_20241006_20241006/15.mp4" },
-        { "title": "Capítulo 16", "url": "https://archive.org/download/15_20241006_20241006/16.mp4" },
-        { "title": "Capítulo 17", "url": "https://archive.org/download/15_20241006_20241006/17.mp4" },
-        { "title": "Capítulo 18", "url": "https://archive.org/download/15_20241006_20241006/18.mp4" },
-        { "title": "Capítulo 19", "url": "https://archive.org/download/15_20241006_20241006/19.mp4" },
-        { "title": "Capítulo 20", "url": "https://archive.org/download/15_20241006_20241006/20.mp4" },
-        { "title": "Capítulo 21", "url": "https://archive.org/download/15_20241006_20241006/21.mp4" },
-        { "title": "Capítulo 22", "url": "https://archive.org/download/15_20241006_20241006/22.mp4" },
-        { "title": "Capítulo 23", "url": "https://archive.org/download/15_20241006_20241006/23.mp4" }
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/2_20241007_20241007_1253/1.mp4" },
+        { "title": "T1 - Capítulo 2", "url": "https://archive.org/download/2_20241007_20241007_1253/2.mp4" },
+        { "title": "T1 - Capítulo 3", "url": "https://archive.org/download/2_20241007_20241007_1253/3.mp4" },
+        { "title": "T1 - Capítulo 4", "url": "https://archive.org/download/2_20241007_20241007_1253/4.mp4" },
+        { "title": "T1 - Capítulo 5", "url": "https://archive.org/download/2_20241007_20241007_1253/5.mp4" },
+        { "title": "T1 - Capítulo 6", "url": "https://archive.org/download/9_20241007_202410/6.mp4" },
+        { "title": "T1 - Capítulo 7", "url": "https://archive.org/download/9_20241007_202410/7.mp4" },
+        { "title": "T1 - Capítulo 8", "url": "https://archive.org/download/9_20241007_202410/8.mp4" },
+        { "title": "T1 - Capítulo 10", "url": "https://archive.org/download/15_20241006_20241006/10.mp4" },
+        { "title": "T1 - Capítulo 11", "url": "https://archive.org/download/15_20241006_20241006/11.mp4" },
+        { "title": "T1 - Capítulo 12", "url": "https://archive.org/download/15_20241006_20241006/12.mp4" },
+        { "title": "T1 - Capítulo 13", "url": "https://archive.org/download/15_20241006_20241006/13.mp4" },
+        { "title": "T1 - Capítulo 14", "url": "https://archive.org/download/15_20241006_20241006/14.mp4" },
+        { "title": "T1 - Capítulo 15", "url": "https://archive.org/download/15_20241006_20241006/15.mp4" },
+        { "title": "T1 - Capítulo 16", "url": "https://archive.org/download/15_20241006_20241006/16.mp4" },
+        { "title": "T1 - Capítulo 17", "url": "https://archive.org/download/15_20241006_20241006/17.mp4" },
+        { "title": "T1 - Capítulo 18", "url": "https://archive.org/download/15_20241006_20241006/18.mp4" },
+        { "title": "T1 - Capítulo 19", "url": "https://archive.org/download/15_20241006_20241006/19.mp4" },
+        { "title": "T1 - Capítulo 20", "url": "https://archive.org/download/15_20241006_20241006/20.mp4" },
+        { "title": "T1 - Capítulo 21", "url": "https://archive.org/download/15_20241006_20241006/21.mp4" },
+        { "title": "T1 - Capítulo 22", "url": "https://archive.org/download/15_20241006_20241006/22.mp4" },
+        { "title": "T1 - Capítulo 23", "url": "https://archive.org/download/15_20241006_20241006/23.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.1.mp4" },
+        { "title": "T2 - Capítulo 2", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.2.mp4" },
+        { "title": "T2 - Capítulo 3", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.3.mp4" },
+        { "title": "T2 - Capítulo 4", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.4.mp4" },
+        { "title": "T2 - Capítulo 5", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.5.mp4" },
+        { "title": "T2 - Capítulo 6", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.6.mp4" },
+        { "title": "T2 - Capítulo 7", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.7.mp4" },
+        { "title": "T2 - Capítulo 8", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.8.mp4" },
+        { "title": "T2 - Capítulo 9", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.9.mp4" },
+        { "title": "T2 - Capítulo 10", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.10.mp4" },
+        { "title": "T2 - Capítulo 11", "url": "https://archive.org/download/kimetsu_20240913/GATON%202.11.mp4" }
+      ]
+    },
+    {
+      "id": "ser_09",
+      "title": "Your Lie in April",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg",
+      "shortDescription": "Un joven pianista pierde la capacidad de oír el sonido del piano tras la muerte de su madre.",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
+      "genres": ["Anime"],
+      "episodes": [
+        { "title": "Capítulo 1: Monocromo, A color", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x01%20-%20Monocromo%2C%20A%20color.mp4" },
+        { "title": "Capítulo 2: Amigo de relleno", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x02%20-%20Amigo%20de%20relleno.ia.mp4" },
+        { "title": "Capítulo 3: En el corazón de la Primavera", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x03%20-%20En%20el%20coraz%C3%B3n%20de%20la%20Primavera.ia.mp4" },
+        { "title": "Capítulo 4: Volar", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x04%20-%20Volar.mp4" },
+        { "title": "Capítulo 5: Nubes en el cielo", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x05%20-%20Nubes%20en%20el%20cielo.mp4" },
+        { "title": "Capítulo 6: El camino de vuelta", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x06%20-%20El%20camino%20de%20vuelta.mp4" },
+        { "title": "Capítulo 7: Susurros entre las sombras", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x07%20-%20Susurros%20entre%20las%20sombras.mp4" },
+        { "title": "Capítulo 8: Resuena", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x08%20-%20Resuena.ia.mp4" },
+        { "title": "Capítulo 9: Simpatía", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x09%20-%20Simpatia.ia.mp4" },
+        { "title": "Capítulo 10: Aquel paisaje junto a ti", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x10%20-%20Aquel%20paisaje%20junto%20a%20ti.ia.mp4" },
+        { "title": "Capítulo 11: La llama de la Vida", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x11%20-%20La%20llama%20de%20la%20vida.ia.mp4" },
+        { "title": "Capítulo 12: Twinkle, little star", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x12%20-%20Twinkle%2C%20little%20star.ia.mp4" },
+        { "title": "Capítulo 13: Penas de amor", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x13%20-%20Penas%20de%20amor.mp4" },
+        { "title": "Capítulo 14: Huellas", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x14%20-%20Huellas.mp4" },
+        { "title": "Capítulo 15: Mentiroso", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x15%20-%20Mentiroso.mp4" },
+        { "title": "Capítulo 16: Como dos gotas de agua", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x16%20-%20Como%20dos%20gotas%20de%20agua.ia.mp4" },
+        { "title": "Capítulo 17: Crepúsculo", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x17%20-%20Crep%C3%BAsculo.ia.mp4" },
+        { "title": "Capítulo 18: Corazones unidos", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x18%20-%20Corazones%20unidos.ia.mp4" },
+        { "title": "Capítulo 19: Adiós, mi querido héroe", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x19%20-%20Adi%C3%B3s%2C%20mi%20querido%20h%C3%A9roe.ia.mp4" },
+        { "title": "Capítulo 20: Mano a mano", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x20%20-%20Mano%20a%20mano.ia.mp4" },
+        { "title": "Capítulo 21: Nieve", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x21%20-%20Nieve.mp4" },
+        { "title": "Capítulo 22: Brisa", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x22%20-%20Brisa%20de%20primavera.mp4" }
+      ]
+    },
+    {
+      "id": "ser_10",
+      "title": "The Boys",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/cSAN6ofLRwRiuwOHYD81p4k6Yks.jpg",
+      "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/czffzEgaBko4mXW84B1J1EnQBzo.jpg",
+      "genres": ["Originales"],
+      "episodes": [
+        { "title": "T1 - Capítulo 1: El nombre del juego", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/1%20-%20El%20Nombre%20del%20Juego.mp4" },
+        { "title": "Capítulo 2: Cherry", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/2%20-%20Cherry.mp4" },
+        { "title": "Capítulo 3: Consigue algo", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/3%20-%20Consigue%20Algo.mp4" },
+        { "title": "Capítulo 4: La Hembra de la Especie", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/4%20-%20La%20Hembra%20de%20la%20Especie.mp4" },
+        { "title": "Capítulo 5: Bueno para el alma", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/5%20-%20Bueno%20para%20el%20Alma.mp4" },
+        { "title": "Capítulo 6: Los Inocentes", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/6%20-%20Los%20Inocentes.mp4" },
+        { "title": "Capítulo 7: La Sociedad de la Supervivencia", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/7%20-%20La%20Sociedad%20de%20la%20Supervivencia.mp4" },
+        { "title": "Capítulo 8: Me encontraste", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/8%20-%20Me%20Encontraste.mp4" },
+        { "title": "T2 - Capítulo 1: El Tío Vivo", "url": "https://archive.org/download/the-boys-temp-2-1-el-tiovivo-1155563/The_Boys__Temp__2__1___El_tiovivo__1155563.mp4" },
+        { "title": "T2 - Capítulo 2: Preparación y Planificación", "url": "https://archive.org/download/the-boys-temp-2-1-el-tiovivo-1155563/The_Boys__Temp__2__2___Preparaci_n_y_planificaci_n__1155564.mp4" }
+      ]
+    },
+    {
+      "id": "ser_11",
+      "title": "Élite",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/biclHaC5zYevbjwIfwdyHxJ5dW.jpg",
+      "shortDescription": "Las aventuras de un niño huérfano en una vecindad de México.",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1q9C2YD9rJSdNiIyAfrlCiIphlO.jpg",
+      "genres": ["Originales"],
+      "episodes": [
+        { "title": "T4 - Capítulo 1", "url": "https://archive.org/download/elite.-season-04/Elite.S04E01.720.mp4" },
+        { "title": "T4 - Capítulo 2", "url": "https://archive.org/download/elite.-season-04/Elite.S04E02.720.mp4" },
+        { "title": "T4 - Capítulo 3", "url": "https://archive.org/download/elite.-season-04/Elite.S04E03.720.mp4" },
+        { "title": "T4 - Capítulo 4", "url": "https://archive.org/download/elite.-season-04/Elite.S04E04.720.mp4" },
+        { "title": "T4 - Capítulo 5", "url": "https://archive.org/download/elite.-season-04/Elite.S04E05.720.mp4" },
+        { "title": "T4 - Capítulo 6", "url": "https://archive.org/download/elite.-season-04/Elite.S04E06.720.mp4" },
+        { "title": "T4 - Capítulo 7", "url": "https://archive.org/download/elite.-season-04/Elite.S04E07.720.mp4" },
+        { "title": "T4 - Capítulo 8", "url": "https://archive.org/download/elite.-season-04/Elite.S04E08.720.mp4" }
       ]
     }
   ]
 }
+
 
 
 
