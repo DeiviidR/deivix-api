@@ -1307,7 +1307,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "shortDescription": "Un grupo de niños descubre secretos sobrenaturales en Hawkins.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
-      "genres": ["Originales", "Acción"],
+      "genres": ["Original", "Acción"],
       "episodes": [
         { "title": "T1 - Cap 1", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x01.mp4" },
         { "title": "T1 - Cap 2", "url": "https://archive.org/download/stranger-things-1/Stranger%20Things%20Temporada%201/Stranger%20Things%201x02.mp4" },
@@ -1463,7 +1463,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/cSAN6ofLRwRiuwOHYD81p4k6Yks.jpg",
       "shortDescription": "Un grupo de vigilantes se embarca en una misión heroica para exponer la verdad sobre 'Los Siete' y Vought, la corporación que encubre sus sucios secretos.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/czffzEgaBko4mXW84B1J1EnQBzo.jpg",
-      "genres": ["Originales"],
+      "genres": ["Original"],
       "episodes": [
         { "title": "T1 - Capítulo 1: El nombre del juego", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/1%20-%20El%20Nombre%20del%20Juego.mp4" },
         { "title": "Capítulo 2: Cherry", "url": "https://archive.org/download/the-boys-temporada-1-doblaje-original-salvadoren-o/2%20-%20Cherry.mp4" },
@@ -1483,7 +1483,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/biclHaC5zYevbjwIfwdyHxJ5dW.jpg",
       "shortDescription": "Cuando tres jóvenes de clase obrera ingresan a la escuela más exclusiva de España, el choque entre ellos y los estudiantes ricos conduce al asesinato.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1q9C2YD9rJSdNiIyAfrlCiIphlO.jpg",
-      "genres": ["Originales"],
+      "genres": ["Original"],
       "episodes": [
         { "title": "T4 - Capítulo 1", "url": "https://archive.org/download/elite.-season-04/Elite.S04E01.720.mp4" },
         { "title": "T4 - Capítulo 2", "url": "https://archive.org/download/elite.-season-04/Elite.S04E02.720.mp4" },
@@ -1497,6 +1497,7 @@
     }
   ]
 }
+
 
 
 
