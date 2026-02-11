@@ -1594,7 +1594,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "shortDescription": "Un prodigio del piano que perdió su música recupera el color de su vida al conocer a una violinista de espíritu libre y secretos profundos.",
       "backdrop": "https://image.tmdb.org/t/p/w1280/aElwU2tZ9s0L0qaXbcyCaDHD4k1.jpg",
-      "genres": ["Anime"],
+      "genres": ["Original", "Animación"],
       "episodes": [
         { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep1.ia.mp4" },
         { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep2.ia.mp4" },
@@ -1656,6 +1656,7 @@
     }
   ]
 }
+
 
 
 
