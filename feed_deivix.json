@@ -1590,33 +1590,30 @@
     },
     {
       "id": "ser_09",
-      "title": "Your Lie in April",
-      "thumbnail": "https://image.tmdb.org/t/p/w500/92P9cD5uOzLVgx0QDTnwkXffjEG.jpg",
+      "title": "Arcane: League of Legends",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "shortDescription": "Un prodigio del piano que perdió su música recupera el color de su vida al conocer a una violinista de espíritu libre y secretos profundos.",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wEaHjTczJaJfDdCwkuaueI70ggx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aElwU2tZ9s0L0qaXbcyCaDHD4k1.jpg",
       "genres": ["Anime"],
       "episodes": [
-        { "title": "Capítulo 2: Amigo de relleno", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x02%20-%20Amigo%20de%20relleno.ia.mp4" },
-        { "title": "Capítulo 3: En el corazón de la Primavera", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x03%20-%20En%20el%20coraz%C3%B3n%20de%20la%20Primavera.ia.mp4" },
-        { "title": "Capítulo 4: Volar", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x04%20-%20Volar.mp4" },
-        { "title": "Capítulo 5: Nubes en el cielo", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x05%20-%20Nubes%20en%20el%20cielo.mp4" },
-        { "title": "Capítulo 6: El camino de vuelta", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x06%20-%20El%20camino%20de%20vuelta.mp4" },
-        { "title": "Capítulo 7: Susurros entre las sombras", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x07%20-%20Susurros%20entre%20las%20sombras.mp4" },
-        { "title": "Capítulo 8: Resuena", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x08%20-%20Resuena.ia.mp4" },
-        { "title": "Capítulo 9: Simpatía", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x09%20-%20Simpatia.ia.mp4" },
-        { "title": "Capítulo 10: Aquel paisaje junto a ti", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x10%20-%20Aquel%20paisaje%20junto%20a%20ti.ia.mp4" },
-        { "title": "Capítulo 11: La llama de la Vida", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x11%20-%20La%20llama%20de%20la%20vida.ia.mp4" },
-        { "title": "Capítulo 12: Twinkle, little star", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x12%20-%20Twinkle%2C%20little%20star.ia.mp4" },
-        { "title": "Capítulo 13: Penas de amor", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x13%20-%20Penas%20de%20amor.mp4" },
-        { "title": "Capítulo 14: Huellas", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x14%20-%20Huellas.mp4" },
-        { "title": "Capítulo 15: Mentiroso", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x15%20-%20Mentiroso.mp4" },
-        { "title": "Capítulo 16: Como dos gotas de agua", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x16%20-%20Como%20dos%20gotas%20de%20agua.ia.mp4" },
-        { "title": "Capítulo 17: Crepúsculo", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x17%20-%20Crep%C3%BAsculo.ia.mp4" },
-        { "title": "Capítulo 18: Corazones unidos", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x18%20-%20Corazones%20unidos.ia.mp4" },
-        { "title": "Capítulo 19: Adiós, mi querido héroe", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x19%20-%20Adi%C3%B3s%2C%20mi%20querido%20h%C3%A9roe.ia.mp4" },
-        { "title": "Capítulo 20: Mano a mano", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x20%20-%20Mano%20a%20mano.ia.mp4" },
-        { "title": "Capítulo 21: Nieve", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x21%20-%20Nieve.mp4" },
-        { "title": "Capítulo 22: Brisa", "url": "https://archive.org/download/tu-mentira-en-abril-/TU%20MENTIRA%20EN%20ABRIL/1x22%20-%20Brisa%20de%20primavera.mp4" }
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep1.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep2.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep3.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep4.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep5.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep6.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep7.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep8.ia.mp4" },
+        { "title": "T1 - Capítulo 1", "url": "https://archive.org/download/Arc4n3/Ep9.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2001.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2002.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2003.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2004.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2005.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2006.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2007.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2008.ia.mp4" },
+        { "title": "T2 - Capítulo 1", "url": "https://archive.org/download/arcane-s-2-latino-/Arcane%20S2%20Latino%2009.ia.mp4" }
       ]
     },
     {
@@ -1659,6 +1656,7 @@
     }
   ]
 }
+
 
 
 
