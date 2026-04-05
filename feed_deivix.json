@@ -1180,6 +1180,42 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/gqejSQWoMnYQOHC9OtdWv3Xi2Mj.jpg",
       "genres": ["Acción", "Familia"],
       "content": { "videos": [{"url": "https://archive.org/download/2006-tokio-drift/2006_Tokio_Drift.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+    },
+  {
+    "id": "mov_132",
+      "title": "WALL*E",
+      "shortDescription": "el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/mYDAt0jm91UsNckOCaxf3gwKh0H.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zcEjXIbqhBn3X7fG9BEifEd2FPx.jpg",
+      "genres": ["Animación", "Familia"],
+      "content": { "videos": [{"url": "https://archive.org/download/MadurenD/WALL%C2%B7E%20%282009%29%20Latino%201080%20%40StreamingLatino.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+    },
+  {
+    "id": "mov_133",
+      "title": "Bolt",
+      "shortDescription": "Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/9WS6Hcph9hhfu0lSaW4PODQryDA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pjCvHHf1Kqrq1hZSWjgFiX5VF4P.jpg",
+      "genres": ["Animación", "Familia"],
+      "content": { "videos": [{"url": "https://archive.org/download/MadurenD/Bolt%20%282008%29%20Latino%20720%20%40StreamingLatino.ia.mp4", "quality": "HD", "videoType": "MP4"}] }
+    },
+  {
+    "id": "mov_134",
+      "title": "Hasta el último hombre",
+      "shortDescription": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma.",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/dFMXilx9gYUtZ6GkbuxKErc6Iv3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yQIBS8B9l2qXoPoPtxSXvH7CfoT.jpg",
+      "genres": ["Religiosa"],
+      "content": { "videos": [{"url": "https://dn720304.ca.archive.org/0/items/peliculas-cristianas/Hasta%20el%20ultimo%20hombre.mp4", "quality": "HD", "videoType": "MP4"}] }
+    },
+  {
+    "id": "mov_135",
+      "title": "La Cabaña",
+      "shortDescription": "A pesar de sus dudas, Mack viaja a la cabaña, donde se encontrará con alguien inesperado.",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/d7qG9sdCTo3uBeWXpxKehplvr8B.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/un7pVnJC2el8YxdIOg6YrSmBTlO.jpg",
+      "genres": ["Religiosa"],
+      "content": { "videos": [{"url": "https://dn720304.ca.archive.org/0/items/peliculas-cristianas/La%20Choza.mp4", "quality": "HD", "videoType": "MP4"}] }
     }
   ],
  "series": [
